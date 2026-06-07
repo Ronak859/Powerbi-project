@@ -1,0 +1,1001 @@
+Equipment_ID,Equipment_Name,Manufacturer,Hospital_Name,City,Quantity,Unit_Price,Total_Cost,Purchase_Date,Status
+EQ0001,X-Ray Machine,MedTech,Manipal Hospital,Hyderabad,12,291900.28,3502803.36,2025-03-23,Operational
+EQ0002,CT Scanner,LifeCare,Max Healthcare,Hyderabad,15,263414.51,3951217.65,2024-06-23,Operational
+EQ0003,MRI Scanner,LifeCare,AIIMS,Kolkata,20,283551.2,5671024,2025-04-03,Out of Service
+EQ0004,Surgical Laser,MedTech,Max Healthcare,Mumbai,6,228978.45,1373870.7,2024-06-11,Out of Service
+EQ0005,Infusion Pump,HealthPlus,Manipal Hospital,Pune,13,219492,2853396,2023-08-27,Under Maintenance
+EQ0006,CT Scanner,HealthPlus,Manipal Hospital,Delhi,7,166157.64,1163103.48,2023-01-29,Operational
+EQ0007,X-Ray Machine,HealthPlus,Medanta,Kolkata,1,366092.07,366092.07,2024-04-19,Out of Service
+EQ0008,X-Ray Machine,BioMed,Fortis Hospital,Chennai,5,320502.73,1602513.65,2023-11-29,Out of Service
+EQ0009,Infusion Pump,PulseTech,BLK Hospital,Mumbai,7,38444.08,269108.56,2024-01-29,Operational
+EQ0010,MRI Scanner,NovaHealth,Fortis Hospital,Delhi,19,166950.3,3172055.7,2024-03-15,Operational
+EQ0011,Surgical Laser,MedTech,BLK Hospital,Pune,4,30896.7,123586.8,2025-01-25,Operational
+EQ0012,CT Scanner,NovaHealth,Max Healthcare,Bangalore,18,327715.53,5898879.54,2025-03-25,Under Maintenance
+EQ0013,ECG Machine,MedTech,Medanta,Bangalore,2,208804.44,417608.88,2023-05-06,Under Maintenance
+EQ0014,X-Ray Machine,NovaHealth,Apollo Hospital,Pune,13,281649.62,3661445.06,2023-06-10,Operational
+EQ0015,Defibrillator,MedTech,Medanta,Kolkata,9,131134.44,1180209.96,2024-07-08,Operational
+EQ0016,Ventilator,BioMed,Manipal Hospital,Kolkata,9,271832.62,2446493.58,2023-05-20,Under Maintenance
+EQ0017,Infusion Pump,NovaHealth,Max Healthcare,Kolkata,7,27147.6,190033.2,2024-08-05,Operational
+EQ0018,Defibrillator,LifeCare,Medanta,Pune,8,356433.43,2851467.44,2024-08-28,Under Maintenance
+EQ0019,CT Scanner,NovaHealth,Fortis Hospital,Hyderabad,11,268045.91,2948505.01,2024-11-10,Under Maintenance
+EQ0020,Ventilator,MedTech,AIIMS,Chennai,14,249001.18,3486016.52,2023-02-17,Operational
+EQ0021,Defibrillator,LifeCare,Fortis Hospital,Bangalore,19,325800.2,6190203.8,2023-04-06,Out of Service
+EQ0022,ECG Machine,NovaHealth,Medanta,Delhi,20,409513.98,8190279.6,2024-09-18,Out of Service
+EQ0023,CT Scanner,MediCore,Fortis Hospital,Hyderabad,5,255354.79,1276773.95,2023-05-31,Under Maintenance
+EQ0024,CT Scanner,PulseTech,BLK Hospital,Delhi,18,210308.22,3785547.96,2025-04-02,Under Maintenance
+EQ0025,Infusion Pump,CareEquip,Max Healthcare,Pune,10,490543.29,4905432.9,2024-12-21,Under Maintenance
+EQ0026,Ultrasound Device,MediCore,Fortis Hospital,Kolkata,4,161191.79,644767.16,2024-07-21,Out of Service
+EQ0027,Defibrillator,NovaHealth,Max Healthcare,Bangalore,19,418746.78,7956188.82,2024-10-25,Operational
+EQ0028,ECG Machine,BioMed,Manipal Hospital,Chennai,1,176563.14,176563.14,2024-02-15,Out of Service
+EQ0029,ECG Machine,PulseTech,Fortis Hospital,Mumbai,5,156824.13,784120.65,2024-01-03,Out of Service
+EQ0030,Patient Monitor,NovaHealth,BLK Hospital,Hyderabad,19,184557.37,3506590.03,2025-01-02,Out of Service
+EQ0031,X-Ray Machine,NovaHealth,Manipal Hospital,Bangalore,2,224247.57,448495.14,2023-10-09,Operational
+EQ0032,MRI Scanner,MedTech,AIIMS,Bangalore,17,405943.99,6901047.83,2024-09-22,Under Maintenance
+EQ0033,X-Ray Machine,BioMed,Max Healthcare,Kolkata,14,34846.04,487844.56,2023-02-08,Operational
+EQ0034,Patient Monitor,PulseTech,BLK Hospital,Delhi,6,58778.79,352672.74,2024-12-26,Operational
+EQ0035,MRI Scanner,HealthPlus,Apollo Hospital,Kolkata,10,231145.25,2311452.5,2024-05-28,Out of Service
+EQ0036,Patient Monitor,PulseTech,AIIMS,Pune,6,38076.26,228457.56,2023-05-28,Under Maintenance
+EQ0037,MRI Scanner,MedTech,Max Healthcare,Hyderabad,18,142701.84,2568633.12,2025-01-16,Operational
+EQ0038,Surgical Laser,MedTech,Medanta,Bangalore,15,35501.1,532516.5,2024-06-14,Operational
+EQ0039,Defibrillator,MedTech,Medanta,Pune,14,261985.31,3667794.34,2023-08-09,Under Maintenance
+EQ0040,Surgical Laser,MedTech,Apollo Hospital,Chennai,4,211898.35,847593.4,2024-12-12,Under Maintenance
+EQ0041,Patient Monitor,MedTech,BLK Hospital,Chennai,16,147156.29,2354500.64,2025-02-17,Under Maintenance
+EQ0042,X-Ray Machine,HealthPlus,Apollo Hospital,Mumbai,12,431228.97,5174747.64,2024-04-28,Under Maintenance
+EQ0043,Patient Monitor,PulseTech,BLK Hospital,Delhi,2,346602.7,693205.4,2024-09-18,Operational
+EQ0044,MRI Scanner,HealthPlus,Max Healthcare,Delhi,4,294216.79,1176867.16,2024-11-10,Operational
+EQ0045,Infusion Pump,HealthPlus,Manipal Hospital,Pune,14,238057.16,3332800.24,2023-08-14,Out of Service
+EQ0046,CT Scanner,BioMed,Fortis Hospital,Hyderabad,5,441704.7,2208523.5,2025-01-22,Operational
+EQ0047,X-Ray Machine,MediCore,Fortis Hospital,Hyderabad,10,417314,4173140,2023-09-08,Operational
+EQ0048,Infusion Pump,PulseTech,Apollo Hospital,Chennai,11,493733.49,5431068.39,2023-05-27,Under Maintenance
+EQ0049,Surgical Laser,LifeCare,BLK Hospital,Chennai,8,65845.46,526763.68,2023-04-05,Out of Service
+EQ0050,CT Scanner,CareEquip,BLK Hospital,Bangalore,2,423887.88,847775.76,2024-02-22,Under Maintenance
+EQ0051,Defibrillator,MedTech,AIIMS,Kolkata,2,377680.63,755361.26,2024-03-16,Operational
+EQ0052,MRI Scanner,NovaHealth,Manipal Hospital,Bangalore,11,370713.49,4077848.39,2024-07-31,Out of Service
+EQ0053,Infusion Pump,MedTech,Apollo Hospital,Hyderabad,8,356756.46,2854051.68,2024-04-04,Operational
+EQ0054,Patient Monitor,CareEquip,Medanta,Bangalore,1,404691.89,404691.89,2024-03-16,Operational
+EQ0055,Infusion Pump,MedTech,Manipal Hospital,Bangalore,15,413774.68,6206620.2,2023-12-23,Operational
+EQ0056,ECG Machine,HealthPlus,Apollo Hospital,Hyderabad,7,484412.44,3390887.08,2023-06-27,Operational
+EQ0057,Infusion Pump,NovaHealth,Fortis Hospital,Hyderabad,14,396526.97,5551377.58,2024-11-13,Operational
+EQ0058,CT Scanner,MediCore,Max Healthcare,Bangalore,6,328922.7,1973536.2,2025-03-09,Operational
+EQ0059,Defibrillator,HealthPlus,Medanta,Pune,9,485776.47,4371988.23,2025-01-13,Out of Service
+EQ0060,Defibrillator,MediCore,Apollo Hospital,Mumbai,17,360413.98,6127037.66,2024-06-15,Operational
+EQ0061,Ultrasound Device,CareEquip,BLK Hospital,Chennai,19,45605.39,866502.41,2023-01-24,Under Maintenance
+EQ0062,Patient Monitor,MediCore,BLK Hospital,Hyderabad,16,159538.75,2552620,2025-04-18,Under Maintenance
+EQ0063,CT Scanner,CareEquip,Medanta,Mumbai,12,442639.12,5311669.44,2024-12-04,Under Maintenance
+EQ0064,X-Ray Machine,CareEquip,AIIMS,Chennai,19,372278.61,7073293.59,2023-11-22,Operational
+EQ0065,MRI Scanner,NovaHealth,Max Healthcare,Chennai,10,215542.81,2155428.1,2023-05-15,Operational
+EQ0066,Defibrillator,HealthPlus,AIIMS,Bangalore,11,404076.62,4444842.82,2023-03-28,Under Maintenance
+EQ0067,Ventilator,NovaHealth,Max Healthcare,Bangalore,8,198372.97,1586983.76,2023-02-20,Operational
+EQ0068,Infusion Pump,LifeCare,Fortis Hospital,Chennai,8,143318.35,1146546.8,2023-03-19,Out of Service
+EQ0069,Defibrillator,NovaHealth,AIIMS,Chennai,10,424441.74,4244417.4,2023-11-23,Operational
+EQ0070,Defibrillator,HealthPlus,AIIMS,Hyderabad,9,207771.67,1869945.03,2023-03-14,Under Maintenance
+EQ0071,X-Ray Machine,NovaHealth,Fortis Hospital,Delhi,17,488693.09,8307782.53,2025-02-23,Operational
+EQ0072,CT Scanner,MedTech,Apollo Hospital,Kolkata,1,284174.3,284174.3,2024-07-04,Out of Service
+EQ0073,Ultrasound Device,NovaHealth,BLK Hospital,Chennai,9,182161.81,1639456.29,2024-06-05,Under Maintenance
+EQ0074,MRI Scanner,BioMed,Fortis Hospital,Bangalore,4,13795.42,55181.68,2024-09-08,Under Maintenance
+EQ0075,Defibrillator,MedTech,AIIMS,Delhi,18,192358.82,3462458.76,2023-01-01,Under Maintenance
+EQ0076,Surgical Laser,PulseTech,AIIMS,Kolkata,14,372811.13,5219355.82,2023-11-15,Under Maintenance
+EQ0077,X-Ray Machine,BioMed,AIIMS,Bangalore,8,51921.71,415373.68,2023-04-04,Out of Service
+EQ0078,Ventilator,NovaHealth,BLK Hospital,Delhi,14,260714.14,3649997.96,2024-03-23,Under Maintenance
+EQ0079,Ultrasound Device,MedTech,Manipal Hospital,Hyderabad,2,286167.28,572334.56,2023-07-18,Out of Service
+EQ0080,ECG Machine,LifeCare,Max Healthcare,Hyderabad,12,277829.6,3333955.2,2025-01-02,Under Maintenance
+EQ0081,X-Ray Machine,CareEquip,Fortis Hospital,Delhi,9,334044.16,3006397.44,2024-09-12,Operational
+EQ0082,Ultrasound Device,MediCore,AIIMS,Chennai,9,462384.25,4161458.25,2023-11-10,Under Maintenance
+EQ0083,Defibrillator,MediCore,Medanta,Delhi,14,280052.54,3920735.56,2023-11-04,Out of Service
+EQ0084,Patient Monitor,CareEquip,Medanta,Pune,16,337615.81,5401852.96,2023-05-15,Under Maintenance
+EQ0085,Ultrasound Device,NovaHealth,Apollo Hospital,Kolkata,2,373640.15,747280.3,2024-05-15,Under Maintenance
+EQ0086,ECG Machine,BioMed,AIIMS,Pune,3,314542.15,943626.45,2024-06-09,Out of Service
+EQ0087,ECG Machine,LifeCare,BLK Hospital,Pune,18,364523.53,6561423.54,2024-08-22,Operational
+EQ0088,Ventilator,NovaHealth,Manipal Hospital,Delhi,5,129266.38,646331.9,2023-12-01,Operational
+EQ0089,ECG Machine,PulseTech,AIIMS,Delhi,6,131251.32,787507.92,2024-07-04,Out of Service
+EQ0090,Infusion Pump,BioMed,Manipal Hospital,Mumbai,19,354551.11,6736471.09,2024-10-23,Out of Service
+EQ0091,X-Ray Machine,MediCore,AIIMS,Delhi,11,398544.54,4383989.94,2023-05-08,Operational
+EQ0092,Defibrillator,MediCore,Fortis Hospital,Delhi,2,75822.51,151645.02,2025-01-08,Operational
+EQ0093,Defibrillator,BioMed,Fortis Hospital,Chennai,11,221085.83,2431944.13,2024-12-16,Under Maintenance
+EQ0094,X-Ray Machine,MediCore,Apollo Hospital,Kolkata,7,17258.52,120809.64,2025-04-01,Out of Service
+EQ0095,CT Scanner,MediCore,BLK Hospital,Pune,13,121108.85,1574415.05,2023-05-31,Under Maintenance
+EQ0096,MRI Scanner,NovaHealth,BLK Hospital,Kolkata,4,237788.16,951152.64,2023-10-09,Under Maintenance
+EQ0097,X-Ray Machine,CareEquip,BLK Hospital,Kolkata,16,92658.5,1482536,2025-01-21,Operational
+EQ0098,ECG Machine,MediCore,Max Healthcare,Bangalore,5,212300.23,1061501.15,2025-01-26,Out of Service
+EQ0099,Patient Monitor,CareEquip,Apollo Hospital,Delhi,11,17390.12,191291.32,2023-08-27,Operational
+EQ0100,Ultrasound Device,MediCore,Max Healthcare,Kolkata,13,377325.63,4905233.19,2025-02-27,Operational
+EQ0101,Surgical Laser,MediCore,Max Healthcare,Hyderabad,4,383878.92,1535515.68,2024-07-20,Out of Service
+EQ0102,CT Scanner,LifeCare,BLK Hospital,Chennai,12,208146.03,2497752.36,2024-03-02,Out of Service
+EQ0103,Ultrasound Device,HealthPlus,Fortis Hospital,Bangalore,7,177672.12,1243704.84,2023-10-01,Out of Service
+EQ0104,Ventilator,MedTech,Manipal Hospital,Pune,20,230271.51,4605430.2,2023-01-15,Operational
+EQ0105,Ultrasound Device,PulseTech,Fortis Hospital,Bangalore,20,474331.2,9486624,2023-07-04,Operational
+EQ0106,CT Scanner,BioMed,BLK Hospital,Bangalore,10,188605.43,1886054.3,2024-03-17,Out of Service
+EQ0107,Surgical Laser,PulseTech,Apollo Hospital,Pune,9,16301.05,146709.45,2024-01-14,Operational
+EQ0108,MRI Scanner,CareEquip,Max Healthcare,Pune,13,431836.75,5613877.75,2025-04-01,Out of Service
+EQ0109,Ultrasound Device,NovaHealth,Medanta,Mumbai,9,256927.12,2312344.08,2023-11-15,Under Maintenance
+EQ0110,Infusion Pump,CareEquip,Fortis Hospital,Hyderabad,14,117953.02,1651342.28,2023-11-10,Operational
+EQ0111,Patient Monitor,BioMed,Medanta,Kolkata,3,446443.91,1339331.73,2025-02-07,Operational
+EQ0112,Ventilator,MedTech,Fortis Hospital,Hyderabad,16,92480.99,1479695.84,2023-11-02,Under Maintenance
+EQ0113,Surgical Laser,MedTech,Medanta,Mumbai,7,110387.37,772711.59,2023-08-24,Operational
+EQ0114,Ultrasound Device,MediCore,AIIMS,Kolkata,11,475968.57,5235654.27,2023-06-01,Operational
+EQ0115,CT Scanner,BioMed,AIIMS,Chennai,18,423202.27,7617640.86,2024-02-07,Out of Service
+EQ0116,MRI Scanner,HealthPlus,AIIMS,Kolkata,3,140915.83,422747.49,2024-06-29,Operational
+EQ0117,Ventilator,HealthPlus,BLK Hospital,Chennai,10,220362.76,2203627.6,2025-01-01,Out of Service
+EQ0118,Surgical Laser,BioMed,Apollo Hospital,Hyderabad,19,147719.41,2806668.79,2024-01-05,Out of Service
+EQ0119,CT Scanner,MedTech,Medanta,Mumbai,12,348513.51,4182162.12,2025-04-22,Operational
+EQ0120,Ventilator,LifeCare,Apollo Hospital,Delhi,19,29682.79,563973.01,2024-04-03,Out of Service
+EQ0121,MRI Scanner,PulseTech,Manipal Hospital,Bangalore,6,399944.58,2399667.48,2025-02-20,Out of Service
+EQ0122,Defibrillator,NovaHealth,BLK Hospital,Chennai,11,289883.74,3188721.14,2023-07-10,Out of Service
+EQ0123,CT Scanner,MediCore,Apollo Hospital,Chennai,12,245004.47,2940053.64,2024-12-07,Operational
+EQ0124,ECG Machine,PulseTech,BLK Hospital,Mumbai,17,148245.78,2520178.26,2024-04-03,Under Maintenance
+EQ0125,MRI Scanner,PulseTech,Apollo Hospital,Pune,8,78332.8,626662.4,2023-06-05,Under Maintenance
+EQ0126,X-Ray Machine,PulseTech,Apollo Hospital,Hyderabad,12,279031.55,3348378.6,2024-05-17,Out of Service
+EQ0127,ECG Machine,BioMed,AIIMS,Delhi,18,137219.21,2469945.78,2024-07-14,Under Maintenance
+EQ0128,Surgical Laser,CareEquip,AIIMS,Delhi,1,259920.1,259920.1,2023-03-04,Under Maintenance
+EQ0129,Ultrasound Device,NovaHealth,AIIMS,Mumbai,9,452807.07,4075263.63,2025-02-27,Out of Service
+EQ0130,ECG Machine,LifeCare,Apollo Hospital,Delhi,15,360790.9,5411863.5,2023-04-06,Operational
+EQ0131,Ultrasound Device,NovaHealth,Fortis Hospital,Hyderabad,16,306642.68,4906282.88,2024-02-19,Under Maintenance
+EQ0132,Surgical Laser,LifeCare,Apollo Hospital,Mumbai,19,142248.13,2702714.47,2023-04-18,Out of Service
+EQ0133,Surgical Laser,MediCore,Apollo Hospital,Chennai,17,347786.43,5912369.31,2024-04-06,Operational
+EQ0134,Ultrasound Device,MedTech,Manipal Hospital,Pune,11,301097.08,3312067.88,2023-12-21,Under Maintenance
+EQ0135,Infusion Pump,HealthPlus,Manipal Hospital,Chennai,15,45926.78,688901.7,2024-03-27,Out of Service
+EQ0136,Infusion Pump,NovaHealth,Manipal Hospital,Delhi,14,483848.39,6773877.46,2023-05-16,Under Maintenance
+EQ0137,MRI Scanner,BioMed,BLK Hospital,Mumbai,19,76533.12,1454129.28,2023-06-03,Out of Service
+EQ0138,ECG Machine,NovaHealth,AIIMS,Chennai,5,13097.2,65486,2024-02-12,Operational
+EQ0139,Infusion Pump,MedTech,AIIMS,Bangalore,5,167087.51,835437.55,2024-06-11,Out of Service
+EQ0140,Surgical Laser,PulseTech,BLK Hospital,Mumbai,4,13038.18,52152.72,2024-06-20,Operational
+EQ0141,X-Ray Machine,BioMed,Manipal Hospital,Pune,5,137010.84,685054.2,2024-02-10,Under Maintenance
+EQ0142,Ultrasound Device,BioMed,Medanta,Hyderabad,19,143870.51,2733539.69,2024-07-11,Out of Service
+EQ0143,Surgical Laser,CareEquip,AIIMS,Pune,16,56618.57,905897.12,2023-11-25,Out of Service
+EQ0144,ECG Machine,MedTech,AIIMS,Pune,3,36982.57,110947.71,2023-02-13,Under Maintenance
+EQ0145,Defibrillator,BioMed,AIIMS,Chennai,9,375086.33,3375776.97,2024-06-10,Operational
+EQ0146,Ultrasound Device,MedTech,Fortis Hospital,Mumbai,1,55243.67,55243.67,2024-12-01,Out of Service
+EQ0147,Patient Monitor,HealthPlus,Medanta,Chennai,9,307563.31,2768069.79,2025-02-19,Under Maintenance
+EQ0148,MRI Scanner,MedTech,Medanta,Hyderabad,5,74650.06,373250.3,2023-07-24,Operational
+EQ0149,CT Scanner,CareEquip,BLK Hospital,Delhi,10,356153.73,3561537.3,2025-04-02,Operational
+EQ0150,ECG Machine,LifeCare,AIIMS,Pune,19,272674.54,5180816.26,2024-03-10,Out of Service
+EQ0151,CT Scanner,HealthPlus,Manipal Hospital,Chennai,15,236505.51,3547582.65,2023-08-23,Operational
+EQ0152,Ultrasound Device,MedTech,Fortis Hospital,Pune,13,429911.58,5588850.54,2024-01-02,Under Maintenance
+EQ0153,ECG Machine,CareEquip,Max Healthcare,Hyderabad,10,73200.16,732001.6,2024-11-12,Under Maintenance
+EQ0154,ECG Machine,HealthPlus,Max Healthcare,Kolkata,1,319530.02,319530.02,2023-12-31,Operational
+EQ0155,Ultrasound Device,NovaHealth,Manipal Hospital,Chennai,6,219614.45,1317686.7,2023-07-16,Operational
+EQ0156,Infusion Pump,LifeCare,Medanta,Delhi,16,387020.34,6192325.44,2024-04-21,Under Maintenance
+EQ0157,X-Ray Machine,MedTech,AIIMS,Hyderabad,7,350963.05,2456741.35,2025-04-23,Under Maintenance
+EQ0158,X-Ray Machine,LifeCare,AIIMS,Mumbai,12,232262.89,2787154.68,2023-09-01,Operational
+EQ0159,Patient Monitor,HealthPlus,Fortis Hospital,Kolkata,6,317344.64,1904067.84,2023-02-05,Out of Service
+EQ0160,Surgical Laser,MedTech,Manipal Hospital,Hyderabad,10,486786.09,4867860.9,2025-04-04,Operational
+EQ0161,ECG Machine,NovaHealth,Max Healthcare,Bangalore,8,359530.5,2876244,2023-06-02,Out of Service
+EQ0162,CT Scanner,NovaHealth,BLK Hospital,Mumbai,9,103719.37,933474.33,2023-04-24,Operational
+EQ0163,ECG Machine,LifeCare,Max Healthcare,Mumbai,6,491978.74,2951872.44,2024-06-03,Under Maintenance
+EQ0164,CT Scanner,MediCore,Max Healthcare,Pune,18,262717.64,4728917.52,2024-04-24,Out of Service
+EQ0165,Patient Monitor,CareEquip,Manipal Hospital,Pune,10,45587.85,455878.5,2023-06-29,Out of Service
+EQ0166,Surgical Laser,PulseTech,Apollo Hospital,Bangalore,2,331266.82,662533.64,2023-02-09,Operational
+EQ0167,Infusion Pump,MedTech,Fortis Hospital,Kolkata,12,293499.56,3521994.72,2023-03-05,Out of Service
+EQ0168,Infusion Pump,HealthPlus,Fortis Hospital,Pune,18,47095.22,847713.96,2023-09-30,Operational
+EQ0169,Defibrillator,NovaHealth,Max Healthcare,Chennai,20,328002.4,6560048,2023-05-04,Under Maintenance
+EQ0170,MRI Scanner,MedTech,Max Healthcare,Bangalore,7,467759.48,3274316.36,2024-10-05,Under Maintenance
+EQ0171,Ventilator,HealthPlus,AIIMS,Pune,12,29165.98,349991.76,2024-03-07,Operational
+EQ0172,Surgical Laser,NovaHealth,Medanta,Delhi,8,430917.36,3447338.88,2025-01-26,Under Maintenance
+EQ0173,Patient Monitor,MedTech,Fortis Hospital,Hyderabad,8,484908.32,3879266.56,2025-01-05,Out of Service
+EQ0174,MRI Scanner,BioMed,Fortis Hospital,Pune,15,87907.35,1318610.25,2023-06-09,Under Maintenance
+EQ0175,MRI Scanner,MedTech,Max Healthcare,Pune,9,359264.36,3233379.24,2024-03-05,Operational
+EQ0176,Patient Monitor,PulseTech,BLK Hospital,Hyderabad,1,396059.16,396059.16,2024-09-27,Under Maintenance
+EQ0177,MRI Scanner,NovaHealth,Medanta,Delhi,11,489220.91,5381430.01,2024-09-02,Operational
+EQ0178,Infusion Pump,PulseTech,Apollo Hospital,Chennai,19,437836.04,8318884.76,2024-01-04,Out of Service
+EQ0179,Defibrillator,LifeCare,Medanta,Pune,4,257332.96,1029331.84,2023-11-27,Under Maintenance
+EQ0180,ECG Machine,PulseTech,Medanta,Hyderabad,15,67039.84,1005597.6,2023-09-16,Operational
+EQ0181,Surgical Laser,PulseTech,BLK Hospital,Delhi,4,255894.57,1023578.28,2024-06-30,Out of Service
+EQ0182,MRI Scanner,HealthPlus,Fortis Hospital,Bangalore,3,325738.66,977215.98,2024-11-19,Out of Service
+EQ0183,CT Scanner,CareEquip,Manipal Hospital,Hyderabad,12,259768.28,3117219.36,2023-06-24,Out of Service
+EQ0184,Surgical Laser,NovaHealth,Fortis Hospital,Hyderabad,15,89285.07,1339276.05,2025-03-25,Out of Service
+EQ0185,X-Ray Machine,HealthPlus,Max Healthcare,Bangalore,5,120909.1,604545.5,2023-06-29,Operational
+EQ0186,Infusion Pump,BioMed,Medanta,Pune,3,450149.52,1350448.56,2023-09-12,Out of Service
+EQ0187,Defibrillator,CareEquip,BLK Hospital,Chennai,16,300297.9,4804766.4,2024-06-15,Out of Service
+EQ0188,Ultrasound Device,NovaHealth,Apollo Hospital,Bangalore,7,399243.8,2794706.6,2023-04-11,Under Maintenance
+EQ0189,Ventilator,BioMed,Max Healthcare,Hyderabad,6,493275.7,2959654.2,2024-10-27,Under Maintenance
+EQ0190,Surgical Laser,CareEquip,Max Healthcare,Mumbai,13,341892.94,4444608.22,2024-07-17,Operational
+EQ0191,CT Scanner,NovaHealth,Max Healthcare,Kolkata,1,183442.15,183442.15,2023-01-05,Under Maintenance
+EQ0192,Defibrillator,MedTech,BLK Hospital,Bangalore,10,330227.52,3302275.2,2023-09-20,Out of Service
+EQ0193,Ventilator,PulseTech,Apollo Hospital,Chennai,12,390691.61,4688299.32,2024-01-20,Under Maintenance
+EQ0194,CT Scanner,LifeCare,Manipal Hospital,Chennai,12,94369.18,1132430.16,2024-09-23,Operational
+EQ0195,Patient Monitor,LifeCare,Apollo Hospital,Pune,11,462962.16,5092583.76,2025-03-10,Operational
+EQ0196,X-Ray Machine,MediCore,Max Healthcare,Hyderabad,5,288601.74,1443008.7,2023-10-29,Operational
+EQ0197,CT Scanner,CareEquip,Manipal Hospital,Kolkata,14,291232.59,4077256.26,2023-05-19,Out of Service
+EQ0198,MRI Scanner,NovaHealth,Max Healthcare,Mumbai,15,212733.65,3191004.75,2025-04-18,Under Maintenance
+EQ0199,MRI Scanner,MediCore,Medanta,Mumbai,4,14276.29,57105.16,2024-07-14,Out of Service
+EQ0200,MRI Scanner,PulseTech,Manipal Hospital,Pune,16,357931.35,5726901.6,2023-11-13,Out of Service
+EQ0201,Patient Monitor,CareEquip,Max Healthcare,Hyderabad,18,174068.26,3133228.68,2023-01-18,Operational
+EQ0202,Ventilator,CareEquip,BLK Hospital,Kolkata,14,197422.59,2763916.26,2024-09-14,Out of Service
+EQ0203,Patient Monitor,CareEquip,Manipal Hospital,Mumbai,5,361299.76,1806498.8,2023-07-21,Under Maintenance
+EQ0204,Surgical Laser,MediCore,Fortis Hospital,Bangalore,18,22770.67,409872.06,2024-05-15,Out of Service
+EQ0205,Ultrasound Device,BioMed,BLK Hospital,Mumbai,9,331674.49,2985070.41,2023-12-30,Out of Service
+EQ0206,Patient Monitor,MediCore,AIIMS,Hyderabad,12,291633.52,3499602.24,2024-02-15,Under Maintenance
+EQ0207,Ultrasound Device,CareEquip,BLK Hospital,Mumbai,12,183338.95,2200067.4,2024-02-03,Out of Service
+EQ0208,Surgical Laser,BioMed,BLK Hospital,Delhi,19,216044.27,4104841.13,2024-02-18,Under Maintenance
+EQ0209,ECG Machine,HealthPlus,AIIMS,Mumbai,8,189941.34,1519530.72,2023-08-10,Out of Service
+EQ0210,MRI Scanner,MediCore,Max Healthcare,Hyderabad,7,59232.96,414630.72,2023-12-23,Operational
+EQ0211,Infusion Pump,MedTech,BLK Hospital,Kolkata,19,349540.19,6641263.61,2024-08-02,Out of Service
+EQ0212,ECG Machine,MediCore,AIIMS,Mumbai,13,68281.59,887660.67,2024-07-19,Out of Service
+EQ0213,Ventilator,CareEquip,Manipal Hospital,Pune,10,492539.8,4925398,2023-05-18,Under Maintenance
+EQ0214,Ventilator,MedTech,Apollo Hospital,Pune,1,478138.18,478138.18,2024-06-07,Out of Service
+EQ0215,X-Ray Machine,BioMed,Manipal Hospital,Bangalore,4,182672.2,730688.8,2023-06-11,Operational
+EQ0216,Surgical Laser,MedTech,Medanta,Chennai,8,307263.6,2458108.8,2023-02-09,Out of Service
+EQ0217,Patient Monitor,LifeCare,Manipal Hospital,Bangalore,13,282740.6,3675627.8,2023-12-31,Out of Service
+EQ0218,Surgical Laser,LifeCare,BLK Hospital,Hyderabad,10,90645.73,906457.3,2025-01-11,Under Maintenance
+EQ0219,CT Scanner,CareEquip,Fortis Hospital,Mumbai,12,5511.28,66135.36,2024-08-31,Out of Service
+EQ0220,Surgical Laser,LifeCare,Apollo Hospital,Mumbai,8,454820.31,3638562.48,2023-06-09,Under Maintenance
+EQ0221,Patient Monitor,MedTech,AIIMS,Hyderabad,20,161240.72,3224814.4,2024-01-06,Out of Service
+EQ0222,Infusion Pump,CareEquip,Fortis Hospital,Kolkata,19,350316.47,6656012.93,2024-09-29,Under Maintenance
+EQ0223,Surgical Laser,BioMed,Apollo Hospital,Bangalore,20,463553.3,9271066,2023-04-23,Under Maintenance
+EQ0224,MRI Scanner,HealthPlus,AIIMS,Hyderabad,6,256734.38,1540406.28,2023-07-04,Out of Service
+EQ0225,X-Ray Machine,MediCore,Fortis Hospital,Chennai,19,34076.09,647445.71,2024-09-21,Out of Service
+EQ0226,ECG Machine,MedTech,Fortis Hospital,Chennai,19,313606.25,5958518.75,2024-12-07,Out of Service
+EQ0227,ECG Machine,HealthPlus,Apollo Hospital,Delhi,13,255108.33,3316408.29,2023-01-08,Operational
+EQ0228,Ventilator,LifeCare,BLK Hospital,Chennai,19,493440.46,9375368.74,2023-08-20,Out of Service
+EQ0229,Ventilator,CareEquip,Apollo Hospital,Hyderabad,18,473191.48,8517446.64,2024-11-12,Under Maintenance
+EQ0230,Infusion Pump,BioMed,Fortis Hospital,Chennai,19,105510.71,2004703.49,2024-07-28,Operational
+EQ0231,ECG Machine,MediCore,Max Healthcare,Hyderabad,3,364684.79,1094054.37,2023-09-11,Under Maintenance
+EQ0232,Surgical Laser,HealthPlus,Manipal Hospital,Pune,17,157368.18,2675259.06,2024-05-25,Out of Service
+EQ0233,Surgical Laser,MedTech,Apollo Hospital,Chennai,6,27431.72,164590.32,2023-03-25,Out of Service
+EQ0234,Infusion Pump,CareEquip,Medanta,Mumbai,6,115584.3,693505.8,2023-10-21,Under Maintenance
+EQ0235,ECG Machine,HealthPlus,AIIMS,Mumbai,1,448430.79,448430.79,2024-03-28,Out of Service
+EQ0236,X-Ray Machine,LifeCare,AIIMS,Kolkata,6,382976.39,2297858.34,2023-07-17,Operational
+EQ0237,MRI Scanner,MediCore,Fortis Hospital,Delhi,15,43956.62,659349.3,2024-07-24,Under Maintenance
+EQ0238,X-Ray Machine,LifeCare,Medanta,Kolkata,19,47571.02,903849.38,2023-08-23,Under Maintenance
+EQ0239,X-Ray Machine,MediCore,AIIMS,Mumbai,4,180374.24,721496.96,2024-02-18,Under Maintenance
+EQ0240,Surgical Laser,MediCore,Manipal Hospital,Hyderabad,17,481276.14,8181694.38,2024-01-05,Operational
+EQ0241,CT Scanner,BioMed,Max Healthcare,Delhi,16,402850.8,6445612.8,2024-03-01,Under Maintenance
+EQ0242,Defibrillator,MediCore,AIIMS,Hyderabad,17,370753.61,6302811.37,2023-11-04,Under Maintenance
+EQ0243,ECG Machine,LifeCare,AIIMS,Kolkata,7,414774.63,2903422.41,2025-04-15,Operational
+EQ0244,Ultrasound Device,NovaHealth,BLK Hospital,Mumbai,5,202101.47,1010507.35,2023-01-27,Out of Service
+EQ0245,X-Ray Machine,CareEquip,Manipal Hospital,Chennai,14,53818.84,753463.76,2024-02-29,Under Maintenance
+EQ0246,CT Scanner,MedTech,AIIMS,Pune,19,397439.99,7551359.81,2023-04-27,Out of Service
+EQ0247,Ultrasound Device,MediCore,Apollo Hospital,Pune,19,427857.43,8129291.17,2024-11-18,Under Maintenance
+EQ0248,CT Scanner,BioMed,Medanta,Delhi,12,194357.26,2332287.12,2025-04-28,Under Maintenance
+EQ0249,Ultrasound Device,CareEquip,AIIMS,Chennai,14,428638.58,6000940.12,2024-04-04,Out of Service
+EQ0250,Surgical Laser,BioMed,Manipal Hospital,Chennai,15,400110.62,6001659.3,2024-07-05,Operational
+EQ0251,Ultrasound Device,LifeCare,Manipal Hospital,Pune,12,406939.04,4883268.48,2025-01-04,Under Maintenance
+EQ0252,Infusion Pump,HealthPlus,Fortis Hospital,Chennai,7,62941.82,440592.74,2025-04-09,Operational
+EQ0253,Infusion Pump,MediCore,Medanta,Bangalore,8,285018.87,2280150.96,2024-12-03,Out of Service
+EQ0254,CT Scanner,BioMed,BLK Hospital,Bangalore,7,346162.97,2423140.79,2025-01-06,Operational
+EQ0255,Defibrillator,NovaHealth,Medanta,Hyderabad,7,341608.37,2391258.59,2023-01-05,Under Maintenance
+EQ0256,MRI Scanner,HealthPlus,Apollo Hospital,Chennai,12,155594.1,1867129.2,2024-12-23,Out of Service
+EQ0257,Surgical Laser,PulseTech,AIIMS,Mumbai,16,37270.87,596333.92,2024-06-07,Out of Service
+EQ0258,CT Scanner,PulseTech,Max Healthcare,Pune,9,362292.73,3260634.57,2024-12-12,Operational
+EQ0259,Infusion Pump,HealthPlus,Medanta,Pune,16,253869.71,4061915.36,2025-03-26,Under Maintenance
+EQ0260,MRI Scanner,MediCore,Apollo Hospital,Kolkata,2,311082.5,622165,2024-02-09,Out of Service
+EQ0261,Infusion Pump,MediCore,AIIMS,Chennai,11,322549.66,3548046.26,2023-02-16,Under Maintenance
+EQ0262,ECG Machine,MediCore,Fortis Hospital,Bangalore,5,344319.78,1721598.9,2024-12-23,Operational
+EQ0263,Patient Monitor,BioMed,Max Healthcare,Pune,6,33969.51,203817.06,2025-01-03,Under Maintenance
+EQ0264,X-Ray Machine,LifeCare,BLK Hospital,Bangalore,5,261586.58,1307932.9,2024-01-23,Out of Service
+EQ0265,CT Scanner,LifeCare,Max Healthcare,Chennai,12,404729.43,4856753.16,2024-06-13,Operational
+EQ0266,Ventilator,NovaHealth,AIIMS,Kolkata,16,185445.63,2967130.08,2023-09-02,Under Maintenance
+EQ0267,Ventilator,MediCore,AIIMS,Pune,5,304824.37,1524121.85,2023-10-16,Operational
+EQ0268,MRI Scanner,LifeCare,Medanta,Delhi,13,293201.84,3811623.92,2025-04-09,Out of Service
+EQ0269,X-Ray Machine,PulseTech,Medanta,Mumbai,14,497240.91,6961372.74,2025-03-26,Under Maintenance
+EQ0270,X-Ray Machine,BioMed,Max Healthcare,Hyderabad,5,321065.23,1605326.15,2024-06-05,Out of Service
+EQ0271,Patient Monitor,CareEquip,Manipal Hospital,Kolkata,20,475158,9503160,2023-11-22,Out of Service
+EQ0272,Defibrillator,NovaHealth,AIIMS,Hyderabad,11,102619.87,1128818.57,2025-01-15,Operational
+EQ0273,Ventilator,BioMed,Apollo Hospital,Pune,13,186920.18,2429962.34,2025-02-16,Under Maintenance
+EQ0274,MRI Scanner,CareEquip,Manipal Hospital,Kolkata,9,195181.3,1756631.7,2023-10-30,Operational
+EQ0275,CT Scanner,CareEquip,Manipal Hospital,Bangalore,6,93879.71,563278.26,2024-12-24,Operational
+EQ0276,MRI Scanner,PulseTech,Manipal Hospital,Chennai,19,257626.69,4894907.11,2025-03-11,Operational
+EQ0277,X-Ray Machine,HealthPlus,Medanta,Bangalore,13,265032.64,3445424.32,2024-08-14,Under Maintenance
+EQ0278,ECG Machine,CareEquip,Fortis Hospital,Delhi,20,164931.04,3298620.8,2023-01-08,Under Maintenance
+EQ0279,Ventilator,CareEquip,AIIMS,Hyderabad,2,149480.86,298961.72,2023-04-17,Out of Service
+EQ0280,Ultrasound Device,MediCore,Fortis Hospital,Bangalore,6,191889.59,1151337.54,2023-05-19,Operational
+EQ0281,Defibrillator,NovaHealth,Max Healthcare,Chennai,17,55472.67,943035.39,2024-02-04,Out of Service
+EQ0282,ECG Machine,PulseTech,BLK Hospital,Pune,10,191909.55,1919095.5,2024-08-06,Under Maintenance
+EQ0283,X-Ray Machine,NovaHealth,Apollo Hospital,Delhi,13,415472.03,5401136.39,2024-08-26,Under Maintenance
+EQ0284,Infusion Pump,PulseTech,Max Healthcare,Pune,9,149510.98,1345598.82,2023-06-18,Out of Service
+EQ0285,MRI Scanner,HealthPlus,AIIMS,Mumbai,4,273371.51,1093486.04,2024-02-22,Out of Service
+EQ0286,Ultrasound Device,LifeCare,Max Healthcare,Chennai,6,208557.14,1251342.84,2023-05-19,Under Maintenance
+EQ0287,MRI Scanner,BioMed,Fortis Hospital,Bangalore,12,58474.78,701697.36,2023-08-22,Operational
+EQ0288,Ultrasound Device,LifeCare,Fortis Hospital,Mumbai,19,111674.55,2121816.45,2024-01-12,Operational
+EQ0289,Ventilator,MediCore,Medanta,Chennai,9,299980.63,2699825.67,2024-04-13,Operational
+EQ0290,Infusion Pump,PulseTech,Apollo Hospital,Delhi,11,190857.58,2099433.38,2025-02-07,Out of Service
+EQ0291,Infusion Pump,MedTech,AIIMS,Pune,6,357995.21,2147971.26,2024-03-27,Operational
+EQ0292,Patient Monitor,PulseTech,Max Healthcare,Kolkata,15,324014.77,4860221.55,2024-02-03,Operational
+EQ0293,Surgical Laser,BioMed,Manipal Hospital,Mumbai,6,492365.54,2954193.24,2024-04-21,Under Maintenance
+EQ0294,Defibrillator,CareEquip,Fortis Hospital,Bangalore,10,276686.25,2766862.5,2023-05-01,Under Maintenance
+EQ0295,MRI Scanner,HealthPlus,BLK Hospital,Chennai,13,308716.22,4013310.86,2023-08-14,Operational
+EQ0296,Patient Monitor,CareEquip,Manipal Hospital,Mumbai,15,253279.65,3799194.75,2024-08-28,Out of Service
+EQ0297,Ventilator,BioMed,AIIMS,Bangalore,7,265238.46,1856669.22,2023-02-17,Out of Service
+EQ0298,Ventilator,NovaHealth,AIIMS,Chennai,5,376638.23,1883191.15,2023-07-03,Operational
+EQ0299,Surgical Laser,MediCore,Fortis Hospital,Kolkata,4,247877.38,991509.52,2024-05-27,Operational
+EQ0300,Surgical Laser,MediCore,Apollo Hospital,Pune,12,320872.85,3850474.2,2024-11-15,Under Maintenance
+EQ0301,Ultrasound Device,PulseTech,Apollo Hospital,Chennai,11,353973.84,3893712.24,2024-02-14,Out of Service
+EQ0302,MRI Scanner,HealthPlus,Medanta,Delhi,14,456812.52,6395375.28,2023-01-14,Under Maintenance
+EQ0303,Surgical Laser,HealthPlus,Max Healthcare,Mumbai,17,117806.09,2002703.53,2024-06-06,Operational
+EQ0304,Defibrillator,MedTech,Apollo Hospital,Delhi,11,340800.05,3748800.55,2024-01-22,Out of Service
+EQ0305,Surgical Laser,BioMed,Medanta,Hyderabad,5,202440.57,1012202.85,2023-07-24,Operational
+EQ0306,ECG Machine,PulseTech,Medanta,Delhi,1,278328.42,278328.42,2023-09-28,Out of Service
+EQ0307,X-Ray Machine,PulseTech,Fortis Hospital,Mumbai,18,300166.12,5402990.16,2024-10-22,Operational
+EQ0308,X-Ray Machine,CareEquip,AIIMS,Bangalore,2,99374.85,198749.7,2023-12-07,Operational
+EQ0309,Infusion Pump,MediCore,BLK Hospital,Chennai,7,488412.62,3418888.34,2025-03-26,Out of Service
+EQ0310,ECG Machine,MediCore,Medanta,Pune,12,30851.39,370216.68,2024-08-09,Out of Service
+EQ0311,Infusion Pump,MediCore,Medanta,Bangalore,1,181522.56,181522.56,2023-05-26,Under Maintenance
+EQ0312,Infusion Pump,NovaHealth,Fortis Hospital,Hyderabad,6,358339.53,2150037.18,2025-01-19,Out of Service
+EQ0313,Patient Monitor,NovaHealth,Fortis Hospital,Delhi,8,24514.18,196113.44,2023-01-31,Under Maintenance
+EQ0314,Ventilator,HealthPlus,AIIMS,Kolkata,14,377246.76,5281454.64,2023-05-08,Operational
+EQ0315,Patient Monitor,HealthPlus,AIIMS,Kolkata,17,52047.69,884810.73,2023-08-26,Under Maintenance
+EQ0316,Patient Monitor,PulseTech,Fortis Hospital,Hyderabad,15,321872.68,4828090.2,2023-09-29,Under Maintenance
+EQ0317,CT Scanner,PulseTech,AIIMS,Kolkata,3,291946.97,875840.91,2024-02-13,Out of Service
+EQ0318,MRI Scanner,HealthPlus,AIIMS,Bangalore,18,457669.4,8238049.2,2024-06-08,Out of Service
+EQ0319,Ventilator,BioMed,Max Healthcare,Bangalore,13,387410.58,5036337.54,2024-07-30,Operational
+EQ0320,Patient Monitor,BioMed,AIIMS,Kolkata,2,153115.48,306230.96,2024-04-16,Out of Service
+EQ0321,ECG Machine,MedTech,Medanta,Kolkata,17,354447.34,6025604.78,2025-02-03,Operational
+EQ0322,Ultrasound Device,BioMed,BLK Hospital,Mumbai,13,448064.51,5824838.63,2023-05-09,Under Maintenance
+EQ0323,Ultrasound Device,MedTech,Apollo Hospital,Hyderabad,18,345946.1,6227029.8,2024-12-10,Under Maintenance
+EQ0324,CT Scanner,MedTech,AIIMS,Bangalore,3,276373.38,829120.14,2025-04-04,Operational
+EQ0325,Infusion Pump,MediCore,Manipal Hospital,Delhi,5,156018.99,780094.95,2023-10-21,Under Maintenance
+EQ0326,Infusion Pump,PulseTech,Apollo Hospital,Kolkata,7,152128.78,1064901.46,2023-01-31,Operational
+EQ0327,Ultrasound Device,NovaHealth,Apollo Hospital,Kolkata,1,62967.51,62967.51,2024-08-01,Out of Service
+EQ0328,Ventilator,BioMed,Manipal Hospital,Kolkata,15,489381.82,7340727.3,2023-11-09,Operational
+EQ0329,Patient Monitor,LifeCare,Max Healthcare,Delhi,11,27836.02,306196.22,2023-09-16,Under Maintenance
+EQ0330,Infusion Pump,PulseTech,Medanta,Hyderabad,9,42977.3,386795.7,2023-06-04,Operational
+EQ0331,MRI Scanner,MedTech,Max Healthcare,Delhi,12,272097.15,3265165.8,2024-05-31,Under Maintenance
+EQ0332,CT Scanner,CareEquip,Apollo Hospital,Chennai,8,68413.56,547308.48,2023-10-13,Under Maintenance
+EQ0333,Infusion Pump,HealthPlus,Manipal Hospital,Pune,2,266054.7,532109.4,2023-07-28,Out of Service
+EQ0334,X-Ray Machine,PulseTech,Apollo Hospital,Kolkata,8,183839.26,1470714.08,2023-04-15,Out of Service
+EQ0335,Surgical Laser,LifeCare,Apollo Hospital,Hyderabad,9,244248.85,2198239.65,2023-12-08,Under Maintenance
+EQ0336,Ultrasound Device,NovaHealth,BLK Hospital,Pune,5,461990.15,2309950.75,2023-11-05,Under Maintenance
+EQ0337,Surgical Laser,MediCore,Apollo Hospital,Bangalore,14,402061.22,5628857.08,2025-01-20,Operational
+EQ0338,CT Scanner,MedTech,BLK Hospital,Mumbai,9,247272.63,2225453.67,2023-04-30,Under Maintenance
+EQ0339,Ventilator,HealthPlus,BLK Hospital,Kolkata,5,427705.05,2138525.25,2024-11-08,Out of Service
+EQ0340,CT Scanner,BioMed,Manipal Hospital,Pune,12,273870.34,3286444.08,2023-07-20,Out of Service
+EQ0341,CT Scanner,NovaHealth,Max Healthcare,Mumbai,8,237325.06,1898600.48,2023-04-23,Out of Service
+EQ0342,Defibrillator,LifeCare,Apollo Hospital,Chennai,7,300692.51,2104847.57,2024-04-10,Out of Service
+EQ0343,X-Ray Machine,MediCore,Fortis Hospital,Mumbai,5,29312.12,146560.6,2023-01-15,Under Maintenance
+EQ0344,Surgical Laser,BioMed,Medanta,Chennai,8,370844.52,2966756.16,2025-01-08,Under Maintenance
+EQ0345,Ultrasound Device,CareEquip,Apollo Hospital,Mumbai,19,289592.87,5502264.53,2023-07-11,Operational
+EQ0346,Surgical Laser,CareEquip,Medanta,Delhi,19,10280.4,195327.6,2023-06-19,Under Maintenance
+EQ0347,ECG Machine,NovaHealth,Apollo Hospital,Bangalore,16,203647.15,3258354.4,2024-12-31,Out of Service
+EQ0348,Infusion Pump,CareEquip,Fortis Hospital,Chennai,19,237382.31,4510263.89,2024-01-14,Under Maintenance
+EQ0349,Ventilator,BioMed,Apollo Hospital,Delhi,14,88741.19,1242376.66,2023-05-30,Operational
+EQ0350,CT Scanner,BioMed,BLK Hospital,Pune,18,318833.76,5739007.68,2025-03-08,Under Maintenance
+EQ0351,ECG Machine,HealthPlus,Medanta,Bangalore,3,84335.68,253007.04,2024-03-10,Out of Service
+EQ0352,Defibrillator,HealthPlus,Apollo Hospital,Pune,5,115367.27,576836.35,2023-06-23,Operational
+EQ0353,Ventilator,NovaHealth,BLK Hospital,Kolkata,10,93238.54,932385.4,2023-05-23,Out of Service
+EQ0354,CT Scanner,PulseTech,BLK Hospital,Hyderabad,2,404667.67,809335.34,2023-12-21,Operational
+EQ0355,Patient Monitor,MediCore,Max Healthcare,Bangalore,15,96911.95,1453679.25,2023-11-22,Under Maintenance
+EQ0356,Defibrillator,LifeCare,Manipal Hospital,Delhi,12,281029.81,3372357.72,2024-01-13,Operational
+EQ0357,CT Scanner,LifeCare,Manipal Hospital,Hyderabad,12,443892.38,5326708.56,2024-04-14,Out of Service
+EQ0358,X-Ray Machine,CareEquip,Manipal Hospital,Chennai,13,415538.38,5401998.94,2025-01-29,Under Maintenance
+EQ0359,Surgical Laser,PulseTech,BLK Hospital,Pune,20,338869.27,6777385.4,2023-04-08,Out of Service
+EQ0360,ECG Machine,NovaHealth,Apollo Hospital,Delhi,12,233139.52,2797674.24,2023-06-05,Under Maintenance
+EQ0361,MRI Scanner,MediCore,Medanta,Bangalore,14,119643.87,1675014.18,2023-09-03,Under Maintenance
+EQ0362,Infusion Pump,MediCore,Fortis Hospital,Kolkata,13,460745.99,5989697.87,2025-03-05,Operational
+EQ0363,Patient Monitor,NovaHealth,BLK Hospital,Hyderabad,1,87149.36,87149.36,2025-01-08,Under Maintenance
+EQ0364,MRI Scanner,NovaHealth,Medanta,Kolkata,20,485946.21,9718924.2,2024-03-04,Operational
+EQ0365,ECG Machine,NovaHealth,BLK Hospital,Delhi,19,491923.5,9346546.5,2023-02-11,Operational
+EQ0366,Surgical Laser,CareEquip,Manipal Hospital,Bangalore,12,70698.16,848377.92,2023-05-25,Out of Service
+EQ0367,MRI Scanner,HealthPlus,Max Healthcare,Delhi,14,80433.04,1126062.56,2024-08-22,Operational
+EQ0368,Infusion Pump,LifeCare,Fortis Hospital,Kolkata,8,365631.56,2925052.48,2023-03-17,Out of Service
+EQ0369,Ventilator,NovaHealth,Max Healthcare,Kolkata,7,423818.16,2966727.12,2024-04-29,Operational
+EQ0370,ECG Machine,NovaHealth,BLK Hospital,Delhi,9,333841.26,3004571.34,2023-12-25,Operational
+EQ0371,Ventilator,BioMed,Manipal Hospital,Chennai,12,282902.8,3394833.6,2023-04-18,Out of Service
+EQ0372,Ultrasound Device,CareEquip,BLK Hospital,Chennai,9,275174.46,2476570.14,2024-08-12,Under Maintenance
+EQ0373,Defibrillator,BioMed,BLK Hospital,Pune,18,246624.94,4439248.92,2023-09-30,Operational
+EQ0374,Ultrasound Device,MedTech,Fortis Hospital,Hyderabad,5,471847.71,2359238.55,2025-04-23,Operational
+EQ0375,Infusion Pump,MedTech,Apollo Hospital,Delhi,18,323061.01,5815098.18,2024-04-01,Operational
+EQ0376,Patient Monitor,BioMed,Max Healthcare,Pune,2,114971.15,229942.3,2023-07-16,Under Maintenance
+EQ0377,Patient Monitor,MediCore,Manipal Hospital,Kolkata,4,12936.96,51747.84,2024-03-15,Under Maintenance
+EQ0378,Ventilator,BioMed,Medanta,Delhi,3,112539.54,337618.62,2024-10-17,Under Maintenance
+EQ0379,Defibrillator,CareEquip,AIIMS,Chennai,6,487997.35,2927984.1,2023-08-19,Out of Service
+EQ0380,Patient Monitor,NovaHealth,Medanta,Bangalore,18,439711.63,7914809.34,2024-03-18,Out of Service
+EQ0381,Surgical Laser,MediCore,Apollo Hospital,Hyderabad,6,113463.46,680780.76,2023-08-13,Operational
+EQ0382,MRI Scanner,LifeCare,Max Healthcare,Kolkata,3,44929.49,134788.47,2023-07-08,Under Maintenance
+EQ0383,Ultrasound Device,PulseTech,Manipal Hospital,Kolkata,18,451830.41,8132947.38,2024-11-03,Out of Service
+EQ0384,CT Scanner,BioMed,Medanta,Bangalore,15,247237.54,3708563.1,2023-11-22,Under Maintenance
+EQ0385,Ventilator,HealthPlus,BLK Hospital,Mumbai,6,144177.85,865067.1,2025-03-09,Under Maintenance
+EQ0386,ECG Machine,BioMed,Manipal Hospital,Chennai,9,106570.28,959132.52,2024-03-13,Under Maintenance
+EQ0387,X-Ray Machine,MedTech,BLK Hospital,Kolkata,18,55357.38,996432.84,2023-03-23,Under Maintenance
+EQ0388,X-Ray Machine,BioMed,Fortis Hospital,Mumbai,19,219403.85,4168673.15,2024-03-02,Under Maintenance
+EQ0389,Patient Monitor,PulseTech,Fortis Hospital,Chennai,18,7806.89,140524.02,2023-03-13,Operational
+EQ0390,Defibrillator,NovaHealth,BLK Hospital,Chennai,2,324968.32,649936.64,2023-09-26,Under Maintenance
+EQ0391,Defibrillator,BioMed,Max Healthcare,Kolkata,19,299480.5,5690129.5,2023-05-20,Under Maintenance
+EQ0392,Surgical Laser,CareEquip,Medanta,Mumbai,2,366022.81,732045.62,2024-07-08,Under Maintenance
+EQ0393,Surgical Laser,HealthPlus,AIIMS,Mumbai,7,9042.75,63299.25,2024-08-10,Out of Service
+EQ0394,CT Scanner,HealthPlus,Max Healthcare,Bangalore,8,439081.22,3512649.76,2023-12-05,Operational
+EQ0395,Infusion Pump,LifeCare,Manipal Hospital,Kolkata,19,51497.15,978445.85,2024-10-28,Out of Service
+EQ0396,Surgical Laser,BioMed,Max Healthcare,Mumbai,18,21198.94,381580.92,2024-01-14,Under Maintenance
+EQ0397,Defibrillator,CareEquip,Manipal Hospital,Bangalore,2,209407.17,418814.34,2023-08-18,Operational
+EQ0398,Infusion Pump,PulseTech,BLK Hospital,Hyderabad,14,435131.47,6091840.58,2025-04-27,Under Maintenance
+EQ0399,Ventilator,BioMed,BLK Hospital,Delhi,11,95125.8,1046383.8,2023-05-23,Operational
+EQ0400,Surgical Laser,MedTech,Manipal Hospital,Bangalore,8,170534.38,1364275.04,2024-06-21,Out of Service
+EQ0401,Ultrasound Device,BioMed,Manipal Hospital,Delhi,3,379260.35,1137781.05,2024-05-06,Under Maintenance
+EQ0402,Ultrasound Device,PulseTech,Fortis Hospital,Kolkata,15,485148.43,7277226.45,2023-09-21,Operational
+EQ0403,X-Ray Machine,HealthPlus,Max Healthcare,Hyderabad,5,172819.74,864098.7,2024-02-08,Operational
+EQ0404,Ultrasound Device,HealthPlus,Apollo Hospital,Hyderabad,8,152604.32,1220834.56,2023-03-19,Operational
+EQ0405,Patient Monitor,MedTech,Apollo Hospital,Delhi,10,147924.17,1479241.7,2023-05-25,Out of Service
+EQ0406,ECG Machine,MedTech,AIIMS,Mumbai,14,33031.51,462441.14,2023-11-17,Under Maintenance
+EQ0407,Infusion Pump,NovaHealth,Fortis Hospital,Pune,20,341392.55,6827851,2024-01-30,Under Maintenance
+EQ0408,MRI Scanner,CareEquip,Manipal Hospital,Mumbai,20,130973.12,2619462.4,2023-06-12,Operational
+EQ0409,Ventilator,LifeCare,Apollo Hospital,Chennai,6,139061.83,834370.98,2023-10-15,Out of Service
+EQ0410,ECG Machine,HealthPlus,Fortis Hospital,Kolkata,13,117456.47,1526934.11,2024-05-31,Under Maintenance
+EQ0411,Ultrasound Device,HealthPlus,Max Healthcare,Hyderabad,12,254209.94,3050519.28,2024-09-15,Under Maintenance
+EQ0412,MRI Scanner,LifeCare,Fortis Hospital,Bangalore,2,221871.85,443743.7,2024-01-16,Operational
+EQ0413,Ventilator,HealthPlus,AIIMS,Bangalore,3,191240.55,573721.65,2024-01-18,Operational
+EQ0414,Ultrasound Device,MedTech,Medanta,Pune,12,431023.49,5172281.88,2023-09-19,Operational
+EQ0415,X-Ray Machine,LifeCare,BLK Hospital,Mumbai,20,427850.83,8557016.6,2024-12-16,Operational
+EQ0416,Infusion Pump,PulseTech,Fortis Hospital,Pune,10,289126.81,2891268.1,2025-03-01,Under Maintenance
+EQ0417,X-Ray Machine,HealthPlus,Max Healthcare,Pune,17,263580.82,4480873.94,2024-09-10,Operational
+EQ0418,Patient Monitor,NovaHealth,Fortis Hospital,Hyderabad,9,374019.2,3366172.8,2024-05-03,Out of Service
+EQ0419,X-Ray Machine,NovaHealth,AIIMS,Delhi,7,126665.53,886658.71,2023-11-28,Operational
+EQ0420,Infusion Pump,BioMed,AIIMS,Chennai,20,80641.28,1612825.6,2024-04-28,Under Maintenance
+EQ0421,Ventilator,CareEquip,AIIMS,Delhi,5,129502.09,647510.45,2024-09-05,Out of Service
+EQ0422,Ventilator,BioMed,Apollo Hospital,Hyderabad,10,221379.5,2213795,2023-07-14,Under Maintenance
+EQ0423,MRI Scanner,MedTech,BLK Hospital,Kolkata,4,321571.47,1286285.88,2023-03-13,Under Maintenance
+EQ0424,Infusion Pump,LifeCare,Apollo Hospital,Pune,20,231517.85,4630357,2023-12-05,Out of Service
+EQ0425,Defibrillator,NovaHealth,Fortis Hospital,Delhi,19,353859.21,6723324.99,2023-04-17,Under Maintenance
+EQ0426,X-Ray Machine,HealthPlus,AIIMS,Pune,2,292611.07,585222.14,2024-12-15,Under Maintenance
+EQ0427,ECG Machine,MediCore,Medanta,Delhi,15,314762.33,4721434.95,2024-08-18,Under Maintenance
+EQ0428,X-Ray Machine,NovaHealth,BLK Hospital,Delhi,10,435622.8,4356228,2024-10-08,Under Maintenance
+EQ0429,Patient Monitor,PulseTech,Apollo Hospital,Hyderabad,9,219851.2,1978660.8,2023-12-04,Under Maintenance
+EQ0430,X-Ray Machine,NovaHealth,Apollo Hospital,Mumbai,18,156081.01,2809458.18,2025-02-25,Out of Service
+EQ0431,Surgical Laser,MediCore,Apollo Hospital,Mumbai,2,297630.39,595260.78,2024-12-07,Out of Service
+EQ0432,CT Scanner,MediCore,Medanta,Hyderabad,2,358565.08,717130.16,2024-06-21,Under Maintenance
+EQ0433,ECG Machine,BioMed,Fortis Hospital,Chennai,18,231760.03,4171680.54,2023-09-11,Under Maintenance
+EQ0434,Infusion Pump,MedTech,Apollo Hospital,Kolkata,12,29026.26,348315.12,2025-04-07,Operational
+EQ0435,CT Scanner,MediCore,Manipal Hospital,Chennai,19,136040.62,2584771.78,2023-07-05,Operational
+EQ0436,Defibrillator,MediCore,AIIMS,Kolkata,2,429578.05,859156.1,2025-04-20,Operational
+EQ0437,Ultrasound Device,PulseTech,BLK Hospital,Chennai,7,22621.48,158350.36,2023-06-01,Operational
+EQ0438,MRI Scanner,CareEquip,Max Healthcare,Chennai,8,325648.31,2605186.48,2023-01-22,Out of Service
+EQ0439,Ultrasound Device,BioMed,Fortis Hospital,Hyderabad,11,22045.06,242495.66,2024-04-27,Out of Service
+EQ0440,Surgical Laser,PulseTech,AIIMS,Chennai,19,160534.74,3050160.06,2023-10-19,Out of Service
+EQ0441,MRI Scanner,MediCore,Fortis Hospital,Kolkata,8,79460.51,635684.08,2025-03-05,Operational
+EQ0442,Defibrillator,MedTech,Max Healthcare,Pune,17,114700.68,1949911.56,2024-06-11,Under Maintenance
+EQ0443,X-Ray Machine,BioMed,Max Healthcare,Hyderabad,14,215194.27,3012719.78,2024-03-15,Operational
+EQ0444,MRI Scanner,PulseTech,Manipal Hospital,Bangalore,9,201178.07,1810602.63,2023-01-06,Out of Service
+EQ0445,CT Scanner,MedTech,Manipal Hospital,Bangalore,4,66875.11,267500.44,2023-04-25,Under Maintenance
+EQ0446,Ventilator,PulseTech,AIIMS,Mumbai,15,384514.2,5767713,2024-10-06,Out of Service
+EQ0447,Surgical Laser,LifeCare,Max Healthcare,Bangalore,13,424515.51,5518701.63,2023-01-26,Out of Service
+EQ0448,Ultrasound Device,MedTech,Manipal Hospital,Kolkata,19,308480.27,5861125.13,2024-01-12,Under Maintenance
+EQ0449,CT Scanner,CareEquip,Max Healthcare,Delhi,10,311936.64,3119366.4,2023-10-29,Out of Service
+EQ0450,Defibrillator,MedTech,Max Healthcare,Pune,17,58326.01,991542.17,2023-06-12,Out of Service
+EQ0451,Ventilator,PulseTech,Fortis Hospital,Hyderabad,17,301075.54,5118284.18,2024-07-09,Operational
+EQ0452,MRI Scanner,MedTech,Fortis Hospital,Chennai,2,221167.91,442335.82,2023-03-01,Out of Service
+EQ0453,Surgical Laser,HealthPlus,Max Healthcare,Delhi,14,167297.05,2342158.7,2024-12-02,Operational
+EQ0454,Defibrillator,NovaHealth,AIIMS,Mumbai,8,314742.86,2517942.88,2023-10-26,Under Maintenance
+EQ0455,ECG Machine,MedTech,Apollo Hospital,Kolkata,9,136504.06,1228536.54,2025-03-16,Operational
+EQ0456,MRI Scanner,BioMed,Fortis Hospital,Chennai,13,478283.03,6217679.39,2023-12-27,Under Maintenance
+EQ0457,Infusion Pump,PulseTech,Apollo Hospital,Bangalore,10,385126.82,3851268.2,2024-12-17,Under Maintenance
+EQ0458,Ventilator,NovaHealth,BLK Hospital,Hyderabad,11,437248.8,4809736.8,2024-02-02,Operational
+EQ0459,Defibrillator,PulseTech,BLK Hospital,Chennai,1,231439.28,231439.28,2024-05-11,Out of Service
+EQ0460,ECG Machine,MediCore,Fortis Hospital,Chennai,20,370895.09,7417901.8,2023-06-05,Out of Service
+EQ0461,Defibrillator,HealthPlus,BLK Hospital,Mumbai,15,417428.52,6261427.8,2024-04-26,Out of Service
+EQ0462,Infusion Pump,BioMed,Max Healthcare,Mumbai,7,257247.97,1800735.79,2023-05-04,Operational
+EQ0463,Ultrasound Device,CareEquip,Manipal Hospital,Chennai,10,77901.87,779018.7,2024-07-22,Out of Service
+EQ0464,CT Scanner,MediCore,AIIMS,Mumbai,17,99607.74,1693331.58,2023-12-04,Out of Service
+EQ0465,MRI Scanner,HealthPlus,Medanta,Hyderabad,17,52374.96,890374.32,2023-05-18,Under Maintenance
+EQ0466,Infusion Pump,MedTech,Manipal Hospital,Mumbai,5,132211.18,661055.9,2024-01-25,Operational
+EQ0467,Ultrasound Device,CareEquip,AIIMS,Bangalore,3,281604.63,844813.89,2024-08-21,Under Maintenance
+EQ0468,Ultrasound Device,CareEquip,Max Healthcare,Bangalore,1,206041.93,206041.93,2023-09-12,Out of Service
+EQ0469,MRI Scanner,CareEquip,Medanta,Bangalore,9,439197.73,3952779.57,2024-05-05,Out of Service
+EQ0470,X-Ray Machine,HealthPlus,Max Healthcare,Bangalore,20,52958.08,1059161.6,2023-03-11,Out of Service
+EQ0471,Surgical Laser,NovaHealth,Apollo Hospital,Hyderabad,19,446418.81,8481957.39,2023-11-26,Out of Service
+EQ0472,Defibrillator,MedTech,Manipal Hospital,Mumbai,17,146435.39,2489401.63,2025-04-10,Operational
+EQ0473,CT Scanner,PulseTech,Fortis Hospital,Delhi,4,49693.9,198775.6,2024-03-18,Out of Service
+EQ0474,Ventilator,NovaHealth,Max Healthcare,Chennai,16,102323.07,1637169.12,2023-05-30,Operational
+EQ0475,Defibrillator,LifeCare,Fortis Hospital,Hyderabad,9,10778.6,97007.4,2025-03-28,Operational
+EQ0476,Infusion Pump,CareEquip,BLK Hospital,Chennai,12,404461.8,4853541.6,2024-08-04,Out of Service
+EQ0477,Defibrillator,MedTech,AIIMS,Hyderabad,8,104418.64,835349.12,2024-11-21,Under Maintenance
+EQ0478,ECG Machine,MedTech,Medanta,Pune,14,258871.96,3624207.44,2023-06-12,Out of Service
+EQ0479,Surgical Laser,PulseTech,Max Healthcare,Bangalore,17,187254.42,3183325.14,2023-06-18,Operational
+EQ0480,Surgical Laser,CareEquip,Manipal Hospital,Bangalore,20,140570.05,2811401,2024-03-15,Operational
+EQ0481,Ultrasound Device,MedTech,Manipal Hospital,Bangalore,18,294636.33,5303453.94,2024-03-21,Under Maintenance
+EQ0482,Ultrasound Device,MediCore,Apollo Hospital,Kolkata,17,257309.19,4374256.23,2024-01-16,Under Maintenance
+EQ0483,Surgical Laser,NovaHealth,Medanta,Delhi,9,89908.41,809175.69,2024-10-25,Operational
+EQ0484,Patient Monitor,PulseTech,Max Healthcare,Kolkata,9,430096.77,3870870.93,2023-05-01,Under Maintenance
+EQ0485,MRI Scanner,LifeCare,Manipal Hospital,Chennai,8,23448.8,187590.4,2025-01-24,Out of Service
+EQ0486,ECG Machine,PulseTech,AIIMS,Pune,15,96182.21,1442733.15,2025-01-17,Operational
+EQ0487,CT Scanner,MedTech,Max Healthcare,Bangalore,3,447552.69,1342658.07,2024-12-22,Under Maintenance
+EQ0488,Ultrasound Device,LifeCare,Medanta,Chennai,12,489806.06,5877672.72,2023-05-22,Out of Service
+EQ0489,ECG Machine,PulseTech,Fortis Hospital,Kolkata,20,9399.47,187989.4,2023-01-02,Under Maintenance
+EQ0490,CT Scanner,HealthPlus,Apollo Hospital,Kolkata,17,384827.14,6542061.38,2024-12-04,Out of Service
+EQ0491,Defibrillator,MediCore,BLK Hospital,Hyderabad,10,96467.97,964679.7,2024-09-30,Out of Service
+EQ0492,MRI Scanner,MedTech,Medanta,Kolkata,8,352377.2,2819017.6,2023-07-17,Under Maintenance
+EQ0493,ECG Machine,NovaHealth,Apollo Hospital,Pune,3,118848.96,356546.88,2024-08-24,Out of Service
+EQ0494,Ultrasound Device,BioMed,Medanta,Bangalore,7,136154.73,953083.11,2024-06-17,Out of Service
+EQ0495,ECG Machine,BioMed,Apollo Hospital,Hyderabad,10,424363.87,4243638.7,2025-04-06,Out of Service
+EQ0496,Ventilator,LifeCare,Fortis Hospital,Pune,7,375413.46,2627894.22,2025-01-05,Operational
+EQ0497,Infusion Pump,PulseTech,BLK Hospital,Kolkata,3,177215.85,531647.55,2023-12-15,Under Maintenance
+EQ0498,Patient Monitor,PulseTech,Manipal Hospital,Pune,9,419181.28,3772631.52,2024-11-28,Out of Service
+EQ0499,Ultrasound Device,MediCore,BLK Hospital,Delhi,13,166358.18,2162656.34,2023-07-30,Operational
+EQ0500,Defibrillator,NovaHealth,Max Healthcare,Mumbai,10,418118.09,4181180.9,2023-07-25,Out of Service
+EQ0501,Infusion Pump,MedTech,Fortis Hospital,Hyderabad,19,421945.04,8016955.76,2023-04-27,Out of Service
+EQ0502,MRI Scanner,MediCore,BLK Hospital,Pune,9,476610.86,4289497.74,2023-02-26,Out of Service
+EQ0503,ECG Machine,PulseTech,BLK Hospital,Pune,16,247340.51,3957448.16,2024-12-29,Out of Service
+EQ0504,Ultrasound Device,BioMed,Medanta,Kolkata,6,380570.55,2283423.3,2023-06-07,Out of Service
+EQ0505,Patient Monitor,CareEquip,Fortis Hospital,Delhi,17,276145.98,4694481.66,2023-04-20,Under Maintenance
+EQ0506,Surgical Laser,BioMed,Medanta,Hyderabad,15,372962.24,5594433.6,2023-01-22,Operational
+EQ0507,Defibrillator,MediCore,AIIMS,Hyderabad,9,493168.19,4438513.71,2024-08-29,Under Maintenance
+EQ0508,Ultrasound Device,LifeCare,Apollo Hospital,Chennai,14,457746.01,6408444.14,2023-07-04,Out of Service
+EQ0509,CT Scanner,HealthPlus,BLK Hospital,Pune,19,23792.97,452066.43,2023-12-16,Out of Service
+EQ0510,Surgical Laser,CareEquip,Apollo Hospital,Bangalore,9,133011.47,1197103.23,2024-05-20,Operational
+EQ0511,Infusion Pump,MediCore,BLK Hospital,Mumbai,1,73275.56,73275.56,2025-01-15,Under Maintenance
+EQ0512,ECG Machine,NovaHealth,Apollo Hospital,Hyderabad,1,154552.74,154552.74,2024-12-11,Operational
+EQ0513,Ventilator,MediCore,AIIMS,Chennai,2,446376.06,892752.12,2025-02-27,Under Maintenance
+EQ0514,Surgical Laser,MediCore,BLK Hospital,Mumbai,15,205254.53,3078817.95,2024-09-23,Under Maintenance
+EQ0515,Infusion Pump,BioMed,Manipal Hospital,Hyderabad,18,177799.61,3200392.98,2024-10-07,Operational
+EQ0516,CT Scanner,NovaHealth,Apollo Hospital,Delhi,7,21507.62,150553.34,2023-08-24,Under Maintenance
+EQ0517,Surgical Laser,CareEquip,BLK Hospital,Kolkata,1,84071.83,84071.83,2024-10-13,Under Maintenance
+EQ0518,MRI Scanner,MediCore,Apollo Hospital,Kolkata,12,268562.17,3222746.04,2024-01-07,Operational
+EQ0519,Patient Monitor,MedTech,Max Healthcare,Chennai,10,367150.53,3671505.3,2023-02-01,Under Maintenance
+EQ0520,MRI Scanner,MedTech,Fortis Hospital,Hyderabad,5,65072.69,325363.45,2023-04-25,Operational
+EQ0521,Ventilator,PulseTech,Apollo Hospital,Kolkata,1,132674.96,132674.96,2024-09-03,Operational
+EQ0522,CT Scanner,PulseTech,Manipal Hospital,Kolkata,18,320628.82,5771318.76,2025-02-09,Under Maintenance
+EQ0523,Ultrasound Device,LifeCare,Apollo Hospital,Kolkata,14,462279.97,6471919.58,2024-06-28,Under Maintenance
+EQ0524,Ultrasound Device,BioMed,Apollo Hospital,Mumbai,20,24362.58,487251.6,2024-05-09,Under Maintenance
+EQ0525,Ventilator,BioMed,BLK Hospital,Hyderabad,9,263367.96,2370311.64,2023-08-09,Out of Service
+EQ0526,Defibrillator,HealthPlus,Max Healthcare,Chennai,3,161613.81,484841.43,2023-01-25,Out of Service
+EQ0527,MRI Scanner,BioMed,Fortis Hospital,Chennai,20,259739.1,5194782,2023-11-25,Operational
+EQ0528,Patient Monitor,HealthPlus,Max Healthcare,Pune,18,268883.61,4839904.98,2024-10-01,Under Maintenance
+EQ0529,X-Ray Machine,BioMed,AIIMS,Kolkata,13,421312.08,5477057.04,2024-04-08,Out of Service
+EQ0530,ECG Machine,HealthPlus,AIIMS,Bangalore,17,91533.16,1556063.72,2025-04-04,Under Maintenance
+EQ0531,Defibrillator,CareEquip,Fortis Hospital,Delhi,5,84256.19,421280.95,2025-02-28,Operational
+EQ0532,MRI Scanner,BioMed,AIIMS,Bangalore,11,301921.47,3321136.17,2023-07-04,Under Maintenance
+EQ0533,MRI Scanner,HealthPlus,BLK Hospital,Pune,19,152033.8,2888642.2,2023-03-14,Out of Service
+EQ0534,Surgical Laser,LifeCare,Manipal Hospital,Bangalore,9,365922.32,3293300.88,2024-03-07,Operational
+EQ0535,X-Ray Machine,PulseTech,BLK Hospital,Mumbai,11,462456.3,5087019.3,2025-03-09,Out of Service
+EQ0536,CT Scanner,LifeCare,Manipal Hospital,Pune,11,297663.43,3274297.73,2025-03-20,Under Maintenance
+EQ0537,Ultrasound Device,MediCore,AIIMS,Hyderabad,19,114025.15,2166477.85,2023-11-20,Out of Service
+EQ0538,Infusion Pump,CareEquip,Fortis Hospital,Kolkata,16,310379.53,4966072.48,2023-03-03,Under Maintenance
+EQ0539,Surgical Laser,LifeCare,AIIMS,Kolkata,7,368844.32,2581910.24,2023-01-06,Out of Service
+EQ0540,Surgical Laser,PulseTech,BLK Hospital,Pune,20,93527.63,1870552.6,2023-06-18,Operational
+EQ0541,X-Ray Machine,MediCore,BLK Hospital,Bangalore,2,405324.42,810648.84,2023-12-18,Out of Service
+EQ0542,Ultrasound Device,CareEquip,Manipal Hospital,Pune,1,78524.08,78524.08,2024-06-27,Out of Service
+EQ0543,MRI Scanner,MediCore,Apollo Hospital,Bangalore,10,89884.85,898848.5,2024-05-20,Operational
+EQ0544,Infusion Pump,HealthPlus,AIIMS,Bangalore,6,319783.5,1918701,2023-07-30,Out of Service
+EQ0545,Ultrasound Device,BioMed,Manipal Hospital,Mumbai,8,192695,1541560,2023-08-14,Operational
+EQ0546,CT Scanner,MediCore,Fortis Hospital,Delhi,14,447217.09,6261039.26,2025-01-17,Out of Service
+EQ0547,Ultrasound Device,PulseTech,Medanta,Chennai,10,66407.19,664071.9,2024-11-04,Out of Service
+EQ0548,Defibrillator,PulseTech,Apollo Hospital,Delhi,19,410582.67,7801070.73,2024-04-06,Operational
+EQ0549,Patient Monitor,NovaHealth,AIIMS,Kolkata,13,302002.59,3926033.67,2023-01-06,Under Maintenance
+EQ0550,CT Scanner,BioMed,BLK Hospital,Mumbai,9,230088.02,2070792.18,2024-04-18,Out of Service
+EQ0551,Surgical Laser,CareEquip,BLK Hospital,Mumbai,11,197314.51,2170459.61,2023-02-23,Out of Service
+EQ0552,Defibrillator,MediCore,Fortis Hospital,Chennai,20,417728.58,8354571.6,2024-05-27,Out of Service
+EQ0553,ECG Machine,HealthPlus,Max Healthcare,Bangalore,18,272615.85,4907085.3,2024-05-26,Operational
+EQ0554,Patient Monitor,PulseTech,Max Healthcare,Bangalore,7,187444.81,1312113.67,2024-04-26,Under Maintenance
+EQ0555,Ventilator,PulseTech,Apollo Hospital,Hyderabad,2,340038.29,680076.58,2023-04-04,Operational
+EQ0556,Defibrillator,LifeCare,AIIMS,Chennai,15,431803.42,6477051.3,2024-10-05,Under Maintenance
+EQ0557,Defibrillator,CareEquip,Manipal Hospital,Kolkata,4,358872.14,1435488.56,2024-01-24,Operational
+EQ0558,Patient Monitor,PulseTech,AIIMS,Bangalore,19,201027.03,3819513.57,2024-12-08,Under Maintenance
+EQ0559,Surgical Laser,LifeCare,AIIMS,Pune,17,390207.2,6633522.4,2025-03-03,Under Maintenance
+EQ0560,Patient Monitor,MediCore,Manipal Hospital,Kolkata,1,378391.09,378391.09,2023-03-08,Operational
+EQ0561,Ultrasound Device,PulseTech,Apollo Hospital,Delhi,11,130637.07,1437007.77,2023-12-09,Out of Service
+EQ0562,Infusion Pump,MedTech,Apollo Hospital,Delhi,3,260231.92,780695.76,2024-06-09,Out of Service
+EQ0563,Surgical Laser,CareEquip,Manipal Hospital,Mumbai,8,68299.62,546396.96,2025-01-17,Out of Service
+EQ0564,Surgical Laser,BioMed,Apollo Hospital,Delhi,1,79196.99,79196.99,2024-09-08,Operational
+EQ0565,ECG Machine,BioMed,Manipal Hospital,Pune,3,457894.13,1373682.39,2023-04-29,Out of Service
+EQ0566,MRI Scanner,NovaHealth,AIIMS,Delhi,7,292994.22,2050959.54,2023-01-21,Operational
+EQ0567,Defibrillator,MediCore,Manipal Hospital,Hyderabad,2,428101.58,856203.16,2025-02-06,Under Maintenance
+EQ0568,Infusion Pump,LifeCare,AIIMS,Chennai,13,331086.83,4304128.79,2025-03-23,Operational
+EQ0569,Defibrillator,PulseTech,Max Healthcare,Hyderabad,11,136776.52,1504541.72,2024-01-18,Under Maintenance
+EQ0570,X-Ray Machine,HealthPlus,Max Healthcare,Hyderabad,10,438484.88,4384848.8,2025-01-11,Operational
+EQ0571,Patient Monitor,MedTech,Fortis Hospital,Chennai,1,371616.19,371616.19,2024-08-02,Out of Service
+EQ0572,Patient Monitor,NovaHealth,AIIMS,Hyderabad,8,235214.71,1881717.68,2023-07-12,Under Maintenance
+EQ0573,Surgical Laser,PulseTech,BLK Hospital,Mumbai,6,165190.41,991142.46,2024-05-17,Under Maintenance
+EQ0574,Ultrasound Device,NovaHealth,Max Healthcare,Kolkata,4,125599.44,502397.76,2024-09-22,Under Maintenance
+EQ0575,Ultrasound Device,MedTech,AIIMS,Bangalore,16,312753.73,5004059.68,2024-12-28,Operational
+EQ0576,Surgical Laser,MediCore,Manipal Hospital,Mumbai,5,349485.44,1747427.2,2023-01-04,Operational
+EQ0577,Patient Monitor,LifeCare,BLK Hospital,Chennai,15,235807.91,3537118.65,2024-08-06,Operational
+EQ0578,ECG Machine,PulseTech,AIIMS,Pune,18,419444.5,7550001,2023-07-04,Out of Service
+EQ0579,CT Scanner,CareEquip,AIIMS,Mumbai,15,73963.87,1109458.05,2023-10-31,Operational
+EQ0580,MRI Scanner,CareEquip,Medanta,Hyderabad,18,357263.91,6430750.38,2025-01-31,Out of Service
+EQ0581,Ultrasound Device,CareEquip,AIIMS,Kolkata,8,245126.59,1961012.72,2024-08-29,Under Maintenance
+EQ0582,MRI Scanner,PulseTech,Fortis Hospital,Bangalore,13,46695.36,607039.68,2023-10-14,Operational
+EQ0583,X-Ray Machine,BioMed,AIIMS,Bangalore,19,120140.8,2282675.2,2025-04-28,Operational
+EQ0584,Ultrasound Device,MedTech,Fortis Hospital,Delhi,14,337868.65,4730161.1,2023-10-05,Out of Service
+EQ0585,ECG Machine,HealthPlus,Manipal Hospital,Hyderabad,3,23142.77,69428.31,2023-11-11,Out of Service
+EQ0586,CT Scanner,HealthPlus,Medanta,Hyderabad,17,308023.64,5236401.88,2024-08-20,Operational
+EQ0587,Ventilator,BioMed,Fortis Hospital,Delhi,1,218851.89,218851.89,2024-07-09,Under Maintenance
+EQ0588,Ventilator,MedTech,BLK Hospital,Delhi,18,141693.52,2550483.36,2025-01-27,Out of Service
+EQ0589,Surgical Laser,CareEquip,Apollo Hospital,Hyderabad,13,153751.14,1998764.82,2024-01-30,Under Maintenance
+EQ0590,Ultrasound Device,LifeCare,Medanta,Pune,19,273665.06,5199636.14,2024-05-05,Operational
+EQ0591,Ultrasound Device,HealthPlus,Fortis Hospital,Kolkata,1,313675.82,313675.82,2024-05-15,Operational
+EQ0592,ECG Machine,CareEquip,Max Healthcare,Bangalore,12,225144.85,2701738.2,2023-06-11,Under Maintenance
+EQ0593,MRI Scanner,LifeCare,AIIMS,Pune,6,262680.51,1576083.06,2024-08-04,Under Maintenance
+EQ0594,X-Ray Machine,NovaHealth,Medanta,Chennai,16,121163.69,1938619.04,2023-08-17,Under Maintenance
+EQ0595,Surgical Laser,BioMed,Fortis Hospital,Bangalore,6,234949.11,1409694.66,2024-12-21,Under Maintenance
+EQ0596,Ultrasound Device,CareEquip,Medanta,Chennai,14,204468.19,2862554.66,2024-07-16,Out of Service
+EQ0597,Ultrasound Device,NovaHealth,Manipal Hospital,Chennai,12,68327.33,819927.96,2024-01-18,Operational
+EQ0598,CT Scanner,LifeCare,Fortis Hospital,Delhi,11,31872.91,350602.01,2023-07-15,Under Maintenance
+EQ0599,MRI Scanner,LifeCare,Fortis Hospital,Kolkata,8,270738.72,2165909.76,2024-05-11,Under Maintenance
+EQ0600,ECG Machine,LifeCare,Medanta,Bangalore,11,121783.95,1339623.45,2025-03-14,Out of Service
+EQ0601,ECG Machine,CareEquip,Apollo Hospital,Hyderabad,9,136690.72,1230216.48,2024-09-02,Under Maintenance
+EQ0602,Defibrillator,MedTech,BLK Hospital,Mumbai,15,251698.71,3775480.65,2023-10-27,Out of Service
+EQ0603,Defibrillator,LifeCare,BLK Hospital,Pune,12,41138.2,493658.4,2023-03-22,Under Maintenance
+EQ0604,Patient Monitor,LifeCare,Apollo Hospital,Delhi,20,337958.26,6759165.2,2023-03-09,Operational
+EQ0605,Infusion Pump,PulseTech,AIIMS,Pune,5,470106,2350530,2023-08-03,Out of Service
+EQ0606,Ultrasound Device,CareEquip,Manipal Hospital,Delhi,8,12373.82,98990.56,2023-10-23,Operational
+EQ0607,CT Scanner,MedTech,Manipal Hospital,Hyderabad,18,23617.85,425121.3,2023-06-24,Operational
+EQ0608,Defibrillator,BioMed,Apollo Hospital,Hyderabad,4,191146.64,764586.56,2024-04-12,Under Maintenance
+EQ0609,Ventilator,PulseTech,Max Healthcare,Kolkata,12,102257.17,1227086.04,2023-11-05,Out of Service
+EQ0610,Infusion Pump,BioMed,Max Healthcare,Kolkata,10,181263.68,1812636.8,2024-04-10,Under Maintenance
+EQ0611,Defibrillator,CareEquip,Fortis Hospital,Kolkata,15,113743.3,1706149.5,2024-06-05,Under Maintenance
+EQ0612,Surgical Laser,PulseTech,BLK Hospital,Delhi,13,37857.48,492147.24,2023-12-08,Out of Service
+EQ0613,Ventilator,CareEquip,Max Healthcare,Pune,11,69822.35,768045.85,2024-05-26,Operational
+EQ0614,ECG Machine,HealthPlus,Manipal Hospital,Hyderabad,10,133072.03,1330720.3,2023-07-14,Under Maintenance
+EQ0615,MRI Scanner,NovaHealth,Medanta,Chennai,17,468652.18,7967087.06,2024-05-27,Out of Service
+EQ0616,MRI Scanner,BioMed,AIIMS,Bangalore,15,379095.86,5686437.9,2023-03-21,Under Maintenance
+EQ0617,Defibrillator,LifeCare,AIIMS,Kolkata,18,115308.77,2075557.86,2024-01-15,Operational
+EQ0618,MRI Scanner,PulseTech,Apollo Hospital,Hyderabad,1,158785,158785,2023-03-28,Under Maintenance
+EQ0619,Infusion Pump,MedTech,Max Healthcare,Mumbai,15,474423.34,7116350.1,2024-06-06,Operational
+EQ0620,ECG Machine,BioMed,Manipal Hospital,Delhi,14,486814.55,6815403.7,2024-08-17,Under Maintenance
+EQ0621,Surgical Laser,BioMed,AIIMS,Hyderabad,9,82221.93,739997.37,2024-07-02,Under Maintenance
+EQ0622,Defibrillator,LifeCare,BLK Hospital,Mumbai,2,406030.88,812061.76,2024-07-25,Out of Service
+EQ0623,Defibrillator,BioMed,Max Healthcare,Hyderabad,19,357168.73,6786205.87,2023-03-04,Under Maintenance
+EQ0624,X-Ray Machine,CareEquip,Max Healthcare,Delhi,17,26606.17,452304.89,2023-08-03,Under Maintenance
+EQ0625,Infusion Pump,BioMed,Fortis Hospital,Mumbai,7,421277.08,2948939.56,2025-03-18,Under Maintenance
+EQ0626,Ventilator,BioMed,Max Healthcare,Hyderabad,6,300481.23,1802887.38,2023-09-18,Operational
+EQ0627,Surgical Laser,MedTech,BLK Hospital,Bangalore,3,182316.84,546950.52,2025-03-30,Under Maintenance
+EQ0628,ECG Machine,NovaHealth,AIIMS,Kolkata,9,403664.35,3632979.15,2024-07-07,Out of Service
+EQ0629,X-Ray Machine,BioMed,Medanta,Kolkata,18,160012.23,2880220.14,2023-07-26,Out of Service
+EQ0630,Defibrillator,MediCore,Manipal Hospital,Pune,10,95047.33,950473.3,2023-06-01,Under Maintenance
+EQ0631,Ultrasound Device,MedTech,Apollo Hospital,Mumbai,6,267074.12,1602444.72,2025-01-25,Under Maintenance
+EQ0632,X-Ray Machine,CareEquip,Max Healthcare,Mumbai,10,50122.03,501220.3,2023-09-04,Operational
+EQ0633,CT Scanner,MediCore,AIIMS,Chennai,2,99377.66,198755.32,2024-12-27,Under Maintenance
+EQ0634,X-Ray Machine,BioMed,AIIMS,Mumbai,11,200611.34,2206724.74,2024-04-14,Operational
+EQ0635,Ventilator,CareEquip,AIIMS,Mumbai,1,229139.87,229139.87,2023-03-12,Operational
+EQ0636,Patient Monitor,MediCore,Medanta,Kolkata,6,270383.61,1622301.66,2023-04-29,Operational
+EQ0637,Patient Monitor,MediCore,Apollo Hospital,Mumbai,3,144777.14,434331.42,2024-01-01,Under Maintenance
+EQ0638,MRI Scanner,MedTech,Manipal Hospital,Hyderabad,7,197656.03,1383592.21,2024-09-01,Out of Service
+EQ0639,Surgical Laser,CareEquip,Medanta,Pune,7,359799.69,2518597.83,2023-12-09,Out of Service
+EQ0640,Ventilator,NovaHealth,Apollo Hospital,Delhi,8,146300.44,1170403.52,2024-04-26,Out of Service
+EQ0641,MRI Scanner,PulseTech,Fortis Hospital,Mumbai,14,391975.88,5487662.32,2024-03-14,Under Maintenance
+EQ0642,MRI Scanner,MedTech,BLK Hospital,Mumbai,18,179785.39,3236137.02,2024-10-29,Under Maintenance
+EQ0643,MRI Scanner,LifeCare,Apollo Hospital,Hyderabad,17,87338.97,1484762.49,2023-06-28,Under Maintenance
+EQ0644,Patient Monitor,MedTech,Max Healthcare,Hyderabad,18,342971.93,6173494.74,2024-09-05,Out of Service
+EQ0645,Patient Monitor,NovaHealth,Max Healthcare,Chennai,19,243920.06,4634481.14,2025-04-29,Operational
+EQ0646,Surgical Laser,MedTech,Medanta,Chennai,5,70918.01,354590.05,2023-11-23,Out of Service
+EQ0647,Ventilator,MediCore,BLK Hospital,Bangalore,17,97506.65,1657613.05,2023-06-18,Out of Service
+EQ0648,X-Ray Machine,MedTech,Fortis Hospital,Hyderabad,13,465158.16,6047056.08,2023-04-21,Operational
+EQ0649,CT Scanner,CareEquip,Apollo Hospital,Hyderabad,17,491213.46,8350628.82,2024-06-30,Out of Service
+EQ0650,Infusion Pump,MediCore,Medanta,Pune,6,270663.53,1623981.18,2024-06-06,Out of Service
+EQ0651,Ultrasound Device,NovaHealth,BLK Hospital,Pune,16,295030.46,4720487.36,2025-04-30,Out of Service
+EQ0652,Ultrasound Device,MediCore,Max Healthcare,Pune,2,222011.59,444023.18,2025-01-08,Under Maintenance
+EQ0653,Ventilator,MedTech,Manipal Hospital,Mumbai,18,112540.31,2025725.58,2024-10-17,Out of Service
+EQ0654,Ultrasound Device,NovaHealth,Fortis Hospital,Delhi,13,122364.53,1590738.89,2024-11-20,Out of Service
+EQ0655,Ventilator,MediCore,Max Healthcare,Bangalore,2,271675.69,543351.38,2023-03-12,Operational
+EQ0656,X-Ray Machine,PulseTech,BLK Hospital,Delhi,2,307382.7,614765.4,2025-01-17,Out of Service
+EQ0657,Ultrasound Device,LifeCare,Max Healthcare,Delhi,19,464582.31,8827063.89,2024-06-09,Operational
+EQ0658,Defibrillator,LifeCare,Medanta,Hyderabad,2,276097.29,552194.58,2023-09-02,Operational
+EQ0659,Ultrasound Device,LifeCare,BLK Hospital,Chennai,9,93040.52,837364.68,2024-01-28,Under Maintenance
+EQ0660,X-Ray Machine,LifeCare,Max Healthcare,Chennai,5,53227.97,266139.85,2024-12-12,Under Maintenance
+EQ0661,Defibrillator,NovaHealth,Medanta,Mumbai,20,93570.34,1871406.8,2024-07-17,Operational
+EQ0662,Ultrasound Device,LifeCare,Manipal Hospital,Kolkata,19,275170.18,5228233.42,2024-01-30,Under Maintenance
+EQ0663,Defibrillator,LifeCare,Max Healthcare,Bangalore,15,392651.2,5889768,2023-04-28,Operational
+EQ0664,CT Scanner,NovaHealth,AIIMS,Mumbai,11,116125.29,1277378.19,2025-02-18,Operational
+EQ0665,Infusion Pump,HealthPlus,AIIMS,Mumbai,17,389919.79,6628636.43,2024-03-11,Out of Service
+EQ0666,MRI Scanner,NovaHealth,BLK Hospital,Bangalore,14,440591.29,6168278.06,2023-04-10,Under Maintenance
+EQ0667,Patient Monitor,LifeCare,Fortis Hospital,Hyderabad,8,283211.55,2265692.4,2023-08-14,Under Maintenance
+EQ0668,Surgical Laser,HealthPlus,Max Healthcare,Pune,12,204316.65,2451799.8,2024-01-25,Out of Service
+EQ0669,X-Ray Machine,HealthPlus,Apollo Hospital,Kolkata,14,154892.69,2168497.66,2024-08-05,Out of Service
+EQ0670,Defibrillator,BioMed,Manipal Hospital,Mumbai,5,457682.51,2288412.55,2024-08-31,Out of Service
+EQ0671,Surgical Laser,PulseTech,Manipal Hospital,Bangalore,20,468914.58,9378291.6,2024-02-16,Out of Service
+EQ0672,MRI Scanner,LifeCare,BLK Hospital,Bangalore,6,345524.39,2073146.34,2023-12-15,Under Maintenance
+EQ0673,Ventilator,BioMed,Manipal Hospital,Bangalore,8,10949.1,87592.8,2024-10-10,Out of Service
+EQ0674,MRI Scanner,MediCore,BLK Hospital,Mumbai,9,356394.15,3207547.35,2025-04-01,Under Maintenance
+EQ0675,Patient Monitor,PulseTech,BLK Hospital,Bangalore,16,125991.62,2015865.92,2023-08-22,Out of Service
+EQ0676,CT Scanner,PulseTech,Manipal Hospital,Hyderabad,8,313227.14,2505817.12,2024-02-01,Under Maintenance
+EQ0677,Infusion Pump,MedTech,Manipal Hospital,Chennai,4,109840.41,439361.64,2024-01-28,Under Maintenance
+EQ0678,CT Scanner,NovaHealth,Fortis Hospital,Pune,6,401086.49,2406518.94,2024-04-20,Under Maintenance
+EQ0679,Ventilator,NovaHealth,AIIMS,Chennai,18,462291.58,8321248.44,2025-01-26,Under Maintenance
+EQ0680,Ultrasound Device,MediCore,Medanta,Chennai,19,301832.53,5734818.07,2023-04-13,Under Maintenance
+EQ0681,Patient Monitor,LifeCare,Fortis Hospital,Pune,16,166345.86,2661533.76,2024-05-04,Out of Service
+EQ0682,CT Scanner,PulseTech,AIIMS,Bangalore,16,106926.65,1710826.4,2024-10-28,Out of Service
+EQ0683,MRI Scanner,HealthPlus,Manipal Hospital,Hyderabad,15,492935.95,7394039.25,2023-03-27,Out of Service
+EQ0684,X-Ray Machine,HealthPlus,Max Healthcare,Delhi,2,261089.29,522178.58,2024-01-07,Operational
+EQ0685,MRI Scanner,CareEquip,BLK Hospital,Chennai,20,235555.25,4711105,2025-02-13,Under Maintenance
+EQ0686,Infusion Pump,CareEquip,Max Healthcare,Hyderabad,10,392463.71,3924637.1,2024-09-03,Under Maintenance
+EQ0687,ECG Machine,HealthPlus,Medanta,Kolkata,13,367631.52,4779209.76,2025-01-26,Out of Service
+EQ0688,CT Scanner,MediCore,BLK Hospital,Delhi,7,214355.96,1500491.72,2023-01-28,Operational
+EQ0689,Ultrasound Device,PulseTech,AIIMS,Kolkata,11,280481.01,3085291.11,2023-07-08,Operational
+EQ0690,Defibrillator,LifeCare,Medanta,Bangalore,4,401279.6,1605118.4,2024-12-26,Out of Service
+EQ0691,Surgical Laser,PulseTech,Apollo Hospital,Mumbai,6,447852.7,2687116.2,2023-01-07,Under Maintenance
+EQ0692,Patient Monitor,MediCore,Max Healthcare,Chennai,3,485904.79,1457714.37,2024-04-29,Operational
+EQ0693,ECG Machine,NovaHealth,BLK Hospital,Chennai,20,238309.72,4766194.4,2023-04-09,Under Maintenance
+EQ0694,X-Ray Machine,MedTech,Medanta,Hyderabad,8,266517.39,2132139.12,2024-11-15,Under Maintenance
+EQ0695,Infusion Pump,CareEquip,Medanta,Chennai,18,373111.53,6716007.54,2024-10-03,Out of Service
+EQ0696,MRI Scanner,PulseTech,Apollo Hospital,Pune,18,266067.43,4789213.74,2023-05-30,Under Maintenance
+EQ0697,CT Scanner,BioMed,BLK Hospital,Pune,17,17390.63,295640.71,2024-09-27,Under Maintenance
+EQ0698,Ultrasound Device,MedTech,BLK Hospital,Kolkata,18,263003.32,4734059.76,2023-05-08,Under Maintenance
+EQ0699,Surgical Laser,CareEquip,Apollo Hospital,Delhi,7,35580.12,249060.84,2023-05-08,Operational
+EQ0700,Ultrasound Device,MediCore,BLK Hospital,Hyderabad,18,350724.19,6313035.42,2023-02-13,Out of Service
+EQ0701,Patient Monitor,CareEquip,Max Healthcare,Kolkata,3,7636.69,22910.07,2024-12-05,Under Maintenance
+EQ0702,Ventilator,BioMed,Medanta,Hyderabad,13,139469.06,1813097.78,2025-04-13,Under Maintenance
+EQ0703,Surgical Laser,HealthPlus,Max Healthcare,Hyderabad,15,235535.35,3533030.25,2024-05-07,Out of Service
+EQ0704,ECG Machine,LifeCare,Manipal Hospital,Delhi,6,206183.93,1237103.58,2024-03-18,Out of Service
+EQ0705,Ultrasound Device,LifeCare,AIIMS,Mumbai,9,137103.27,1233929.43,2023-04-08,Operational
+EQ0706,Ultrasound Device,LifeCare,Apollo Hospital,Pune,14,284779.65,3986915.1,2024-11-02,Out of Service
+EQ0707,Surgical Laser,CareEquip,Manipal Hospital,Bangalore,14,329642.76,4614998.64,2023-12-26,Out of Service
+EQ0708,Infusion Pump,LifeCare,Fortis Hospital,Pune,4,10832.68,43330.72,2024-06-08,Under Maintenance
+EQ0709,MRI Scanner,NovaHealth,Max Healthcare,Hyderabad,17,292864.51,4978696.67,2024-03-07,Under Maintenance
+EQ0710,Defibrillator,LifeCare,Max Healthcare,Delhi,20,66965.53,1339310.6,2023-05-05,Out of Service
+EQ0711,CT Scanner,HealthPlus,Fortis Hospital,Chennai,15,489619.15,7344287.25,2024-09-18,Out of Service
+EQ0712,Ultrasound Device,PulseTech,Fortis Hospital,Chennai,5,141440.41,707202.05,2023-03-10,Under Maintenance
+EQ0713,Infusion Pump,BioMed,AIIMS,Hyderabad,11,190547.76,2096025.36,2024-08-19,Out of Service
+EQ0714,Defibrillator,NovaHealth,BLK Hospital,Pune,1,397901.73,397901.73,2023-09-26,Out of Service
+EQ0715,Patient Monitor,MedTech,Max Healthcare,Chennai,4,190588.24,762352.96,2023-03-07,Operational
+EQ0716,MRI Scanner,PulseTech,Apollo Hospital,Mumbai,20,354899.88,7097997.6,2024-09-30,Out of Service
+EQ0717,Infusion Pump,CareEquip,AIIMS,Bangalore,14,495838.91,6941744.74,2023-02-17,Out of Service
+EQ0718,ECG Machine,HealthPlus,BLK Hospital,Hyderabad,5,204459.2,1022296,2023-01-07,Out of Service
+EQ0719,Surgical Laser,MediCore,Manipal Hospital,Chennai,14,300840.61,4211768.54,2024-10-09,Operational
+EQ0720,Ultrasound Device,LifeCare,BLK Hospital,Pune,16,8505.22,136083.52,2025-01-29,Out of Service
+EQ0721,ECG Machine,MediCore,AIIMS,Chennai,9,410871.11,3697839.99,2024-07-11,Out of Service
+EQ0722,Patient Monitor,BioMed,Manipal Hospital,Pune,20,387344.6,7746892,2023-10-09,Out of Service
+EQ0723,X-Ray Machine,HealthPlus,AIIMS,Mumbai,11,423008.35,4653091.85,2023-02-01,Under Maintenance
+EQ0724,X-Ray Machine,MediCore,BLK Hospital,Hyderabad,7,292270.15,2045891.05,2024-07-01,Under Maintenance
+EQ0725,Ventilator,MedTech,Fortis Hospital,Delhi,14,283933.39,3975067.46,2024-08-26,Under Maintenance
+EQ0726,Patient Monitor,PulseTech,BLK Hospital,Chennai,16,116055.99,1856895.84,2023-08-18,Out of Service
+EQ0727,Defibrillator,LifeCare,Medanta,Mumbai,19,262112.5,4980137.5,2024-01-04,Operational
+EQ0728,CT Scanner,MedTech,AIIMS,Delhi,4,199053.48,796213.92,2024-11-18,Operational
+EQ0729,ECG Machine,HealthPlus,BLK Hospital,Hyderabad,16,353847.54,5661560.64,2024-08-10,Operational
+EQ0730,Ventilator,CareEquip,AIIMS,Delhi,11,75377.31,829150.41,2023-10-31,Out of Service
+EQ0731,Defibrillator,MedTech,BLK Hospital,Delhi,3,371968.22,1115904.66,2024-02-09,Under Maintenance
+EQ0732,Patient Monitor,MedTech,BLK Hospital,Mumbai,10,277618.65,2776186.5,2024-11-21,Under Maintenance
+EQ0733,ECG Machine,BioMed,BLK Hospital,Hyderabad,13,450008.87,5850115.31,2024-04-27,Under Maintenance
+EQ0734,Defibrillator,BioMed,Medanta,Bangalore,5,496939.32,2484696.6,2025-02-26,Under Maintenance
+EQ0735,Patient Monitor,HealthPlus,Apollo Hospital,Bangalore,17,465670.66,7916401.22,2025-03-14,Under Maintenance
+EQ0736,MRI Scanner,LifeCare,Apollo Hospital,Delhi,14,325878.8,4562303.2,2024-11-02,Under Maintenance
+EQ0737,Surgical Laser,NovaHealth,Fortis Hospital,Pune,9,498901.93,4490117.37,2024-01-24,Operational
+EQ0738,Infusion Pump,NovaHealth,Medanta,Delhi,1,406102.09,406102.09,2024-04-12,Under Maintenance
+EQ0739,Infusion Pump,NovaHealth,Medanta,Pune,4,292548.51,1170194.04,2025-03-23,Out of Service
+EQ0740,X-Ray Machine,LifeCare,Apollo Hospital,Hyderabad,13,85161.58,1107100.54,2024-03-28,Out of Service
+EQ0741,CT Scanner,BioMed,BLK Hospital,Delhi,9,104613.89,941525.01,2023-09-05,Out of Service
+EQ0742,Defibrillator,HealthPlus,Medanta,Chennai,3,252312.3,756936.9,2024-10-13,Operational
+EQ0743,Defibrillator,LifeCare,AIIMS,Hyderabad,18,168902.71,3040248.78,2023-08-15,Out of Service
+EQ0744,Ultrasound Device,HealthPlus,AIIMS,Mumbai,12,54231.91,650782.92,2023-01-13,Out of Service
+EQ0745,MRI Scanner,LifeCare,Medanta,Bangalore,20,474538.11,9490762.2,2025-02-10,Out of Service
+EQ0746,CT Scanner,LifeCare,BLK Hospital,Mumbai,7,271524.6,1900672.2,2023-06-26,Under Maintenance
+EQ0747,X-Ray Machine,NovaHealth,Medanta,Pune,18,183685.06,3306331.08,2024-11-24,Under Maintenance
+EQ0748,Ultrasound Device,NovaHealth,Apollo Hospital,Hyderabad,18,420200.06,7563601.08,2024-10-26,Under Maintenance
+EQ0749,Ultrasound Device,NovaHealth,Fortis Hospital,Chennai,11,488368.21,5372050.31,2023-11-10,Under Maintenance
+EQ0750,Defibrillator,PulseTech,BLK Hospital,Mumbai,6,14493.1,86958.6,2024-12-28,Out of Service
+EQ0751,Infusion Pump,PulseTech,Apollo Hospital,Pune,8,105686.01,845488.08,2023-03-17,Out of Service
+EQ0752,Surgical Laser,LifeCare,Manipal Hospital,Delhi,15,252180.09,3782701.35,2023-07-12,Operational
+EQ0753,Ultrasound Device,HealthPlus,Fortis Hospital,Delhi,19,20919.94,397478.86,2024-03-07,Out of Service
+EQ0754,Infusion Pump,HealthPlus,Manipal Hospital,Delhi,7,431240.35,3018682.45,2023-03-01,Out of Service
+EQ0755,X-Ray Machine,NovaHealth,Fortis Hospital,Mumbai,19,237773.14,4517689.66,2025-03-17,Under Maintenance
+EQ0756,Patient Monitor,HealthPlus,Manipal Hospital,Bangalore,18,245953.51,4427163.18,2024-02-26,Under Maintenance
+EQ0757,Surgical Laser,MedTech,Max Healthcare,Hyderabad,6,455208.88,2731253.28,2024-06-05,Under Maintenance
+EQ0758,Patient Monitor,BioMed,Manipal Hospital,Chennai,15,432013.82,6480207.3,2025-01-23,Operational
+EQ0759,MRI Scanner,MediCore,Max Healthcare,Chennai,15,185694.25,2785413.75,2023-02-09,Out of Service
+EQ0760,Ventilator,MedTech,BLK Hospital,Mumbai,16,102077.7,1633243.2,2023-04-04,Out of Service
+EQ0761,Defibrillator,NovaHealth,Medanta,Hyderabad,20,151209.21,3024184.2,2023-02-12,Under Maintenance
+EQ0762,ECG Machine,MedTech,AIIMS,Kolkata,17,56414.13,959040.21,2024-07-12,Under Maintenance
+EQ0763,MRI Scanner,MedTech,Medanta,Bangalore,18,335620.87,6041175.66,2023-12-10,Under Maintenance
+EQ0764,Ventilator,LifeCare,AIIMS,Chennai,7,158320.12,1108240.84,2023-07-31,Out of Service
+EQ0765,Defibrillator,HealthPlus,AIIMS,Kolkata,8,329559.53,2636476.24,2023-11-05,Operational
+EQ0766,ECG Machine,PulseTech,AIIMS,Delhi,13,53630.18,697192.34,2023-11-18,Operational
+EQ0767,Patient Monitor,MedTech,Apollo Hospital,Hyderabad,11,195111.28,2146224.08,2024-09-04,Under Maintenance
+EQ0768,CT Scanner,PulseTech,Fortis Hospital,Bangalore,18,206106.17,3709911.06,2024-12-25,Out of Service
+EQ0769,Patient Monitor,HealthPlus,Max Healthcare,Hyderabad,14,31232.04,437248.56,2023-08-18,Under Maintenance
+EQ0770,Ultrasound Device,NovaHealth,AIIMS,Hyderabad,3,59704.31,179112.93,2023-09-28,Operational
+EQ0771,Patient Monitor,MediCore,BLK Hospital,Pune,9,111321.77,1001895.93,2023-12-28,Operational
+EQ0772,Defibrillator,MediCore,Fortis Hospital,Bangalore,20,345681.94,6913638.8,2023-01-26,Under Maintenance
+EQ0773,CT Scanner,LifeCare,Apollo Hospital,Mumbai,10,146759.7,1467597,2025-03-29,Out of Service
+EQ0774,MRI Scanner,MedTech,BLK Hospital,Delhi,11,372898.28,4101881.08,2024-05-12,Operational
+EQ0775,Ultrasound Device,MediCore,Manipal Hospital,Chennai,14,389246.68,5449453.52,2023-06-08,Under Maintenance
+EQ0776,X-Ray Machine,HealthPlus,Fortis Hospital,Hyderabad,12,289846.49,3478157.88,2023-11-06,Operational
+EQ0777,X-Ray Machine,HealthPlus,BLK Hospital,Bangalore,16,240011.86,3840189.76,2023-01-23,Out of Service
+EQ0778,Defibrillator,HealthPlus,Apollo Hospital,Pune,14,349805.73,4897280.22,2023-04-02,Operational
+EQ0779,Ventilator,MedTech,BLK Hospital,Hyderabad,15,188600.96,2829014.4,2023-11-07,Under Maintenance
+EQ0780,Defibrillator,PulseTech,Apollo Hospital,Pune,3,279815.99,839447.97,2024-10-20,Out of Service
+EQ0781,MRI Scanner,MediCore,BLK Hospital,Bangalore,20,142352.95,2847059,2023-08-28,Operational
+EQ0782,Surgical Laser,CareEquip,BLK Hospital,Bangalore,10,265392.41,2653924.1,2024-03-04,Out of Service
+EQ0783,ECG Machine,BioMed,Apollo Hospital,Delhi,4,280646.7,1122586.8,2023-02-02,Under Maintenance
+EQ0784,X-Ray Machine,MediCore,Apollo Hospital,Pune,6,191534.32,1149205.92,2024-10-13,Out of Service
+EQ0785,Infusion Pump,HealthPlus,Apollo Hospital,Mumbai,20,313756.23,6275124.6,2024-01-30,Under Maintenance
+EQ0786,ECG Machine,MediCore,Apollo Hospital,Delhi,15,240849.09,3612736.35,2024-05-31,Out of Service
+EQ0787,ECG Machine,NovaHealth,Fortis Hospital,Mumbai,1,306239.02,306239.02,2023-04-21,Under Maintenance
+EQ0788,CT Scanner,HealthPlus,Manipal Hospital,Delhi,14,277924.15,3890938.1,2023-07-27,Operational
+EQ0789,Infusion Pump,PulseTech,Medanta,Kolkata,2,232636.93,465273.86,2024-11-18,Operational
+EQ0790,MRI Scanner,NovaHealth,Manipal Hospital,Kolkata,17,219815.57,3736864.69,2024-05-28,Under Maintenance
+EQ0791,Infusion Pump,PulseTech,Max Healthcare,Chennai,13,412400.64,5361208.32,2023-04-27,Out of Service
+EQ0792,Patient Monitor,MedTech,Max Healthcare,Chennai,1,392099.89,392099.89,2023-03-27,Operational
+EQ0793,CT Scanner,NovaHealth,Apollo Hospital,Chennai,5,66875.52,334377.6,2024-11-06,Under Maintenance
+EQ0794,ECG Machine,MedTech,Apollo Hospital,Hyderabad,1,57221.55,57221.55,2024-03-06,Out of Service
+EQ0795,CT Scanner,HealthPlus,Fortis Hospital,Kolkata,17,145827.02,2479059.34,2023-03-24,Under Maintenance
+EQ0796,Surgical Laser,PulseTech,Max Healthcare,Hyderabad,12,320640.91,3847690.92,2023-06-22,Operational
+EQ0797,Defibrillator,HealthPlus,BLK Hospital,Kolkata,18,292624.45,5267240.1,2024-09-22,Operational
+EQ0798,MRI Scanner,MediCore,Fortis Hospital,Hyderabad,1,490464.77,490464.77,2025-03-19,Out of Service
+EQ0799,Surgical Laser,LifeCare,Medanta,Delhi,18,112447.99,2024063.82,2024-03-01,Out of Service
+EQ0800,ECG Machine,NovaHealth,Fortis Hospital,Delhi,5,136354.95,681774.75,2023-10-30,Operational
+EQ0801,ECG Machine,NovaHealth,Manipal Hospital,Kolkata,8,457417.88,3659343.04,2025-03-01,Out of Service
+EQ0802,X-Ray Machine,PulseTech,Fortis Hospital,Mumbai,2,127466.28,254932.56,2025-01-08,Operational
+EQ0803,Defibrillator,PulseTech,Fortis Hospital,Chennai,6,471969.81,2831818.86,2023-04-09,Out of Service
+EQ0804,Surgical Laser,HealthPlus,BLK Hospital,Mumbai,4,116572.04,466288.16,2023-05-26,Under Maintenance
+EQ0805,Infusion Pump,NovaHealth,AIIMS,Mumbai,14,109357.77,1531008.78,2024-12-14,Out of Service
+EQ0806,MRI Scanner,MedTech,Max Healthcare,Bangalore,2,450714,901428,2023-05-26,Under Maintenance
+EQ0807,Infusion Pump,MediCore,AIIMS,Mumbai,8,32513.31,260106.48,2025-03-09,Operational
+EQ0808,Ultrasound Device,HealthPlus,AIIMS,Pune,7,239189.02,1674323.14,2024-01-18,Under Maintenance
+EQ0809,X-Ray Machine,MedTech,Medanta,Delhi,20,124163.24,2483264.8,2023-04-07,Out of Service
+EQ0810,MRI Scanner,NovaHealth,AIIMS,Mumbai,17,238832.31,4060149.27,2023-07-25,Out of Service
+EQ0811,Defibrillator,MedTech,Fortis Hospital,Chennai,9,359015.86,3231142.74,2024-05-13,Under Maintenance
+EQ0812,CT Scanner,CareEquip,AIIMS,Hyderabad,4,394746.03,1578984.12,2024-07-02,Out of Service
+EQ0813,Surgical Laser,PulseTech,AIIMS,Chennai,13,440329.85,5724288.05,2025-02-13,Out of Service
+EQ0814,ECG Machine,BioMed,BLK Hospital,Mumbai,2,256622.01,513244.02,2023-06-28,Operational
+EQ0815,Defibrillator,LifeCare,Manipal Hospital,Kolkata,18,119122.72,2144208.96,2024-12-14,Under Maintenance
+EQ0816,MRI Scanner,MediCore,Fortis Hospital,Mumbai,8,223531.41,1788251.28,2023-04-21,Under Maintenance
+EQ0817,MRI Scanner,CareEquip,Medanta,Kolkata,7,231406.44,1619845.08,2025-04-13,Out of Service
+EQ0818,Defibrillator,MediCore,BLK Hospital,Kolkata,11,253476.92,2788246.12,2024-06-11,Operational
+EQ0819,Defibrillator,MedTech,BLK Hospital,Delhi,3,469440.76,1408322.28,2023-07-08,Under Maintenance
+EQ0820,X-Ray Machine,PulseTech,Max Healthcare,Chennai,12,489633.16,5875597.92,2024-12-02,Under Maintenance
+EQ0821,MRI Scanner,BioMed,Apollo Hospital,Hyderabad,5,314760.65,1573803.25,2023-10-28,Operational
+EQ0822,Infusion Pump,MedTech,Fortis Hospital,Delhi,15,268941.16,4034117.4,2024-05-16,Under Maintenance
+EQ0823,Ultrasound Device,MedTech,BLK Hospital,Mumbai,13,392310.64,5100038.32,2023-05-04,Out of Service
+EQ0824,Surgical Laser,CareEquip,Manipal Hospital,Kolkata,14,330430.84,4626031.76,2023-11-16,Out of Service
+EQ0825,Patient Monitor,PulseTech,Max Healthcare,Bangalore,12,7371.07,88452.84,2024-08-20,Out of Service
+EQ0826,Infusion Pump,HealthPlus,AIIMS,Bangalore,14,123656.11,1731185.54,2023-06-28,Operational
+EQ0827,Infusion Pump,LifeCare,Manipal Hospital,Pune,6,105358.53,632151.18,2025-03-04,Out of Service
+EQ0828,Ventilator,NovaHealth,Max Healthcare,Kolkata,3,24542.67,73628.01,2023-03-20,Operational
+EQ0829,Infusion Pump,LifeCare,Manipal Hospital,Delhi,9,106386.42,957477.78,2024-11-04,Under Maintenance
+EQ0830,Defibrillator,HealthPlus,Medanta,Delhi,19,203833.63,3872838.97,2023-01-29,Operational
+EQ0831,Ventilator,CareEquip,Medanta,Kolkata,15,390843.81,5862657.15,2023-03-28,Operational
+EQ0832,CT Scanner,HealthPlus,Max Healthcare,Hyderabad,1,171502.56,171502.56,2023-10-21,Operational
+EQ0833,X-Ray Machine,MediCore,Max Healthcare,Bangalore,5,460232,2301160,2023-02-03,Operational
+EQ0834,Surgical Laser,MediCore,Manipal Hospital,Chennai,18,378699.44,6816589.92,2023-01-11,Under Maintenance
+EQ0835,Defibrillator,HealthPlus,AIIMS,Chennai,5,110923.68,554618.4,2024-03-20,Operational
+EQ0836,CT Scanner,PulseTech,Medanta,Pune,14,271176.6,3796472.4,2025-04-11,Operational
+EQ0837,Defibrillator,CareEquip,Medanta,Mumbai,11,143474.51,1578219.61,2023-09-07,Out of Service
+EQ0838,Defibrillator,MediCore,Fortis Hospital,Delhi,16,113033.86,1808541.76,2025-02-25,Operational
+EQ0839,Infusion Pump,HealthPlus,Medanta,Hyderabad,17,469928.67,7988787.39,2023-11-29,Operational
+EQ0840,Defibrillator,NovaHealth,Manipal Hospital,Pune,9,241563.12,2174068.08,2023-12-10,Out of Service
+EQ0841,Patient Monitor,LifeCare,Fortis Hospital,Delhi,4,305729.87,1222919.48,2024-08-11,Under Maintenance
+EQ0842,ECG Machine,LifeCare,Max Healthcare,Delhi,20,120400.41,2408008.2,2024-12-06,Out of Service
+EQ0843,Patient Monitor,NovaHealth,AIIMS,Delhi,17,378478.02,6434126.34,2024-11-13,Under Maintenance
+EQ0844,Infusion Pump,PulseTech,Apollo Hospital,Bangalore,16,405889.54,6494232.64,2025-03-28,Operational
+EQ0845,Ultrasound Device,LifeCare,Manipal Hospital,Delhi,13,354282.81,4605676.53,2024-08-04,Under Maintenance
+EQ0846,CT Scanner,MediCore,Fortis Hospital,Chennai,11,255159.81,2806757.91,2024-12-24,Operational
+EQ0847,MRI Scanner,LifeCare,AIIMS,Delhi,6,264338.06,1586028.36,2024-02-29,Under Maintenance
+EQ0848,X-Ray Machine,PulseTech,Max Healthcare,Kolkata,13,227253.03,2954289.39,2024-09-17,Under Maintenance
+EQ0849,Ultrasound Device,MedTech,AIIMS,Mumbai,8,431942.21,3455537.68,2023-08-11,Operational
+EQ0850,Patient Monitor,MedTech,Medanta,Delhi,1,399525.04,399525.04,2024-03-13,Under Maintenance
+EQ0851,Ultrasound Device,CareEquip,Apollo Hospital,Pune,6,265508.81,1593052.86,2024-12-31,Operational
+EQ0852,CT Scanner,PulseTech,AIIMS,Kolkata,2,43527.29,87054.58,2024-06-11,Operational
+EQ0853,X-Ray Machine,MediCore,Fortis Hospital,Hyderabad,7,238355.96,1668491.72,2024-03-16,Operational
+EQ0854,X-Ray Machine,LifeCare,Max Healthcare,Delhi,20,407655.5,8153110,2023-11-27,Out of Service
+EQ0855,MRI Scanner,BioMed,Max Healthcare,Pune,18,439046.22,7902831.96,2023-10-25,Under Maintenance
+EQ0856,Infusion Pump,BioMed,Apollo Hospital,Chennai,2,494441.54,988883.08,2024-02-28,Under Maintenance
+EQ0857,ECG Machine,MediCore,Manipal Hospital,Mumbai,4,438218.73,1752874.92,2023-09-01,Out of Service
+EQ0858,ECG Machine,MedTech,Manipal Hospital,Kolkata,12,457851.29,5494215.48,2024-02-22,Out of Service
+EQ0859,MRI Scanner,CareEquip,Fortis Hospital,Kolkata,15,218400.12,3276001.8,2024-11-25,Operational
+EQ0860,Defibrillator,HealthPlus,AIIMS,Kolkata,2,160779.63,321559.26,2023-08-11,Under Maintenance
+EQ0861,Defibrillator,HealthPlus,Medanta,Mumbai,13,360918.73,4691943.49,2025-02-11,Under Maintenance
+EQ0862,ECG Machine,LifeCare,AIIMS,Mumbai,18,462132.25,8318380.5,2024-03-15,Operational
+EQ0863,ECG Machine,MedTech,Fortis Hospital,Hyderabad,1,52445.95,52445.95,2023-01-15,Operational
+EQ0864,ECG Machine,HealthPlus,Manipal Hospital,Chennai,20,5232.73,104654.6,2024-11-20,Operational
+EQ0865,CT Scanner,LifeCare,Max Healthcare,Pune,17,99709.78,1695066.26,2023-07-18,Out of Service
+EQ0866,CT Scanner,CareEquip,Manipal Hospital,Delhi,13,444704.76,5781161.88,2023-05-13,Out of Service
+EQ0867,Ventilator,PulseTech,Fortis Hospital,Hyderabad,16,97173.25,1554772,2023-12-23,Operational
+EQ0868,Ultrasound Device,PulseTech,Max Healthcare,Delhi,6,443731.26,2662387.56,2024-01-13,Operational
+EQ0869,Surgical Laser,CareEquip,Apollo Hospital,Hyderabad,14,419159.12,5868227.68,2024-10-20,Under Maintenance
+EQ0870,MRI Scanner,MediCore,Apollo Hospital,Bangalore,4,173305.71,693222.84,2023-05-24,Operational
+EQ0871,Infusion Pump,HealthPlus,BLK Hospital,Chennai,16,264038.99,4224623.84,2023-05-04,Out of Service
+EQ0872,Infusion Pump,PulseTech,Fortis Hospital,Hyderabad,13,276495.29,3594438.77,2024-11-08,Under Maintenance
+EQ0873,X-Ray Machine,MedTech,Medanta,Chennai,8,66837.29,534698.32,2024-01-06,Under Maintenance
+EQ0874,CT Scanner,LifeCare,Max Healthcare,Chennai,1,258830.57,258830.57,2024-01-28,Operational
+EQ0875,MRI Scanner,CareEquip,AIIMS,Chennai,20,252862.33,5057246.6,2023-10-28,Under Maintenance
+EQ0876,Ultrasound Device,LifeCare,BLK Hospital,Kolkata,17,409991.43,6969854.31,2024-07-05,Under Maintenance
+EQ0877,MRI Scanner,BioMed,Fortis Hospital,Mumbai,2,191897,383794,2025-01-28,Under Maintenance
+EQ0878,Surgical Laser,MedTech,BLK Hospital,Hyderabad,12,341400.56,4096806.72,2024-12-22,Operational
+EQ0879,Infusion Pump,MedTech,BLK Hospital,Bangalore,2,141065.06,282130.12,2023-12-09,Out of Service
+EQ0880,Ventilator,PulseTech,Apollo Hospital,Pune,8,352817.03,2822536.24,2024-04-11,Under Maintenance
+EQ0881,Defibrillator,MediCore,Apollo Hospital,Mumbai,9,439954.77,3959592.93,2024-09-14,Under Maintenance
+EQ0882,X-Ray Machine,MedTech,Max Healthcare,Delhi,2,466628.52,933257.04,2024-03-09,Under Maintenance
+EQ0883,Patient Monitor,NovaHealth,Medanta,Hyderabad,19,401219.93,7623178.67,2024-08-15,Out of Service
+EQ0884,Defibrillator,PulseTech,BLK Hospital,Pune,17,85808.96,1458752.32,2023-02-13,Out of Service
+EQ0885,Ultrasound Device,HealthPlus,Manipal Hospital,Kolkata,9,328491.46,2956423.14,2024-08-21,Under Maintenance
+EQ0886,Ventilator,PulseTech,Fortis Hospital,Chennai,8,404197.67,3233581.36,2023-08-12,Out of Service
+EQ0887,MRI Scanner,CareEquip,Apollo Hospital,Mumbai,12,413861.77,4966341.24,2024-02-11,Under Maintenance
+EQ0888,Infusion Pump,PulseTech,Manipal Hospital,Bangalore,19,60004.91,1140093.29,2024-06-25,Under Maintenance
+EQ0889,Ultrasound Device,MediCore,Fortis Hospital,Chennai,9,496639.7,4469757.3,2023-01-23,Operational
+EQ0890,CT Scanner,PulseTech,Apollo Hospital,Hyderabad,17,250746.34,4262687.78,2024-12-01,Operational
+EQ0891,X-Ray Machine,CareEquip,BLK Hospital,Delhi,16,81758.77,1308140.32,2024-07-05,Operational
+EQ0892,CT Scanner,LifeCare,AIIMS,Bangalore,13,299320.32,3891164.16,2023-06-06,Under Maintenance
+EQ0893,MRI Scanner,MediCore,BLK Hospital,Bangalore,20,344164.91,6883298.2,2025-01-01,Operational
+EQ0894,ECG Machine,MedTech,Manipal Hospital,Mumbai,9,227791.46,2050123.14,2023-08-31,Under Maintenance
+EQ0895,ECG Machine,MedTech,Medanta,Kolkata,16,194788.16,3116610.56,2024-09-02,Out of Service
+EQ0896,Defibrillator,BioMed,AIIMS,Chennai,6,122008.64,732051.84,2023-09-24,Under Maintenance
+EQ0897,Defibrillator,CareEquip,Manipal Hospital,Bangalore,3,51332.3,153996.9,2023-11-07,Under Maintenance
+EQ0898,ECG Machine,PulseTech,AIIMS,Hyderabad,19,485171.39,9218256.41,2024-06-08,Out of Service
+EQ0899,Ultrasound Device,PulseTech,Apollo Hospital,Hyderabad,16,468917.48,7502679.68,2024-10-20,Under Maintenance
+EQ0900,CT Scanner,CareEquip,Apollo Hospital,Delhi,2,314383.32,628766.64,2024-05-20,Out of Service
+EQ0901,Infusion Pump,HealthPlus,Medanta,Kolkata,3,483764.62,1451293.86,2024-07-19,Under Maintenance
+EQ0902,Ventilator,MediCore,Max Healthcare,Kolkata,3,228532.33,685596.99,2024-05-19,Out of Service
+EQ0903,Ventilator,BioMed,Fortis Hospital,Delhi,10,346239.04,3462390.4,2024-03-16,Out of Service
+EQ0904,CT Scanner,PulseTech,Max Healthcare,Kolkata,17,232711.46,3956094.82,2023-09-22,Under Maintenance
+EQ0905,ECG Machine,BioMed,Medanta,Bangalore,2,149615.76,299231.52,2024-10-13,Under Maintenance
+EQ0906,Infusion Pump,MediCore,Manipal Hospital,Pune,7,84898.13,594286.91,2024-08-11,Out of Service
+EQ0907,ECG Machine,CareEquip,Max Healthcare,Mumbai,16,487654.32,7802469.12,2023-08-18,Under Maintenance
+EQ0908,Ultrasound Device,HealthPlus,BLK Hospital,Mumbai,19,106356.35,2020770.65,2024-07-26,Under Maintenance
+EQ0909,Surgical Laser,LifeCare,Apollo Hospital,Bangalore,19,392018.32,7448348.08,2023-09-01,Operational
+EQ0910,Infusion Pump,HealthPlus,Medanta,Delhi,13,192331.75,2500312.75,2023-01-23,Under Maintenance
+EQ0911,ECG Machine,CareEquip,Manipal Hospital,Hyderabad,16,436752.78,6988044.48,2025-03-14,Under Maintenance
+EQ0912,Defibrillator,MedTech,Max Healthcare,Bangalore,8,486360.64,3890885.12,2023-01-26,Out of Service
+EQ0913,Infusion Pump,PulseTech,Apollo Hospital,Hyderabad,14,199553.12,2793743.68,2024-05-18,Operational
+EQ0914,CT Scanner,NovaHealth,Medanta,Delhi,5,483625.46,2418127.3,2024-07-12,Out of Service
+EQ0915,Infusion Pump,LifeCare,Fortis Hospital,Bangalore,13,406123.51,5279605.63,2023-03-28,Operational
+EQ0916,Ventilator,PulseTech,AIIMS,Delhi,11,24273.5,267008.5,2024-05-17,Operational
+EQ0917,X-Ray Machine,CareEquip,Apollo Hospital,Mumbai,2,62812.01,125624.02,2025-03-08,Out of Service
+EQ0918,Ultrasound Device,LifeCare,BLK Hospital,Delhi,6,18987.4,113924.4,2024-01-28,Operational
+EQ0919,Ultrasound Device,MedTech,AIIMS,Chennai,12,308310.39,3699724.68,2023-11-17,Out of Service
+EQ0920,X-Ray Machine,CareEquip,BLK Hospital,Hyderabad,17,25705.35,436990.95,2024-10-25,Out of Service
+EQ0921,X-Ray Machine,CareEquip,AIIMS,Hyderabad,15,235457.58,3531863.7,2023-12-14,Operational
+EQ0922,X-Ray Machine,PulseTech,Max Healthcare,Chennai,3,157859.46,473578.38,2023-06-12,Out of Service
+EQ0923,Defibrillator,HealthPlus,Apollo Hospital,Hyderabad,6,257896.94,1547381.64,2025-01-25,Under Maintenance
+EQ0924,CT Scanner,PulseTech,Fortis Hospital,Bangalore,4,138919.2,555676.8,2024-08-27,Out of Service
+EQ0925,Ultrasound Device,LifeCare,AIIMS,Chennai,1,455126.55,455126.55,2023-07-04,Out of Service
+EQ0926,Patient Monitor,MediCore,Max Healthcare,Bangalore,19,353908.98,6724270.62,2025-04-16,Out of Service
+EQ0927,Ultrasound Device,CareEquip,Manipal Hospital,Mumbai,5,251355.64,1256778.2,2024-06-03,Operational
+EQ0928,X-Ray Machine,NovaHealth,Medanta,Hyderabad,3,440033.13,1320099.39,2023-03-10,Operational
+EQ0929,MRI Scanner,HealthPlus,Apollo Hospital,Delhi,20,192338.88,3846777.6,2023-05-14,Out of Service
+EQ0930,Infusion Pump,NovaHealth,AIIMS,Bangalore,15,87047.66,1305714.9,2023-11-17,Operational
+EQ0931,ECG Machine,LifeCare,BLK Hospital,Hyderabad,18,352741.76,6349351.68,2024-10-26,Out of Service
+EQ0932,Surgical Laser,HealthPlus,Max Healthcare,Mumbai,20,311092.76,6221855.2,2023-05-26,Operational
+EQ0933,Ventilator,PulseTech,BLK Hospital,Delhi,7,497233.17,3480632.19,2023-10-23,Out of Service
+EQ0934,Defibrillator,CareEquip,Medanta,Mumbai,7,164603.3,1152223.1,2023-02-08,Out of Service
+EQ0935,Ultrasound Device,PulseTech,Apollo Hospital,Kolkata,11,185105.28,2036158.08,2024-11-08,Operational
+EQ0936,ECG Machine,BioMed,Manipal Hospital,Bangalore,2,106262.99,212525.98,2023-03-18,Under Maintenance
+EQ0937,X-Ray Machine,NovaHealth,Apollo Hospital,Mumbai,11,92798,1020778,2024-01-10,Operational
+EQ0938,Defibrillator,CareEquip,AIIMS,Chennai,10,74428.74,744287.4,2023-12-30,Under Maintenance
+EQ0939,ECG Machine,BioMed,BLK Hospital,Kolkata,8,401457.26,3211658.08,2023-04-22,Under Maintenance
+EQ0940,Ultrasound Device,NovaHealth,Max Healthcare,Bangalore,19,175395.03,3332505.57,2024-03-03,Out of Service
+EQ0941,ECG Machine,CareEquip,AIIMS,Kolkata,10,199313.18,1993131.8,2025-01-09,Operational
+EQ0942,Ultrasound Device,BioMed,Apollo Hospital,Delhi,14,444853.1,6227943.4,2023-05-29,Out of Service
+EQ0943,Surgical Laser,LifeCare,Manipal Hospital,Mumbai,14,39004.38,546061.32,2024-09-22,Operational
+EQ0944,Ventilator,MedTech,Fortis Hospital,Hyderabad,6,329361.11,1976166.66,2023-04-02,Under Maintenance
+EQ0945,Defibrillator,PulseTech,Apollo Hospital,Chennai,19,495274.13,9410208.47,2023-08-22,Operational
+EQ0946,Infusion Pump,PulseTech,Max Healthcare,Chennai,13,457053.17,5941691.21,2023-06-19,Operational
+EQ0947,MRI Scanner,MedTech,AIIMS,Mumbai,1,386021.53,386021.53,2023-08-27,Under Maintenance
+EQ0948,Defibrillator,CareEquip,Fortis Hospital,Hyderabad,12,400964.42,4811573.04,2023-12-28,Operational
+EQ0949,CT Scanner,HealthPlus,Max Healthcare,Hyderabad,9,210601.55,1895413.95,2024-10-14,Under Maintenance
+EQ0950,ECG Machine,MediCore,Manipal Hospital,Mumbai,19,394591.14,7497231.66,2025-04-23,Operational
+EQ0951,X-Ray Machine,NovaHealth,AIIMS,Mumbai,7,288898,2022286,2024-06-04,Out of Service
+EQ0952,MRI Scanner,CareEquip,Fortis Hospital,Pune,12,493076.21,5916914.52,2023-12-11,Operational
+EQ0953,Patient Monitor,PulseTech,AIIMS,Pune,14,269977.12,3779679.68,2025-04-26,Under Maintenance
+EQ0954,Defibrillator,CareEquip,Fortis Hospital,Bangalore,6,356036.36,2136218.16,2024-10-09,Under Maintenance
+EQ0955,Patient Monitor,NovaHealth,BLK Hospital,Chennai,20,85124.32,1702486.4,2024-03-14,Out of Service
+EQ0956,Defibrillator,MediCore,BLK Hospital,Hyderabad,15,350063.67,5250955.05,2024-05-07,Under Maintenance
+EQ0957,Surgical Laser,LifeCare,Fortis Hospital,Pune,6,365650.04,2193900.24,2025-04-16,Operational
+EQ0958,ECG Machine,PulseTech,AIIMS,Delhi,10,275438.67,2754386.7,2025-03-28,Out of Service
+EQ0959,ECG Machine,MediCore,Apollo Hospital,Pune,3,16195.83,48587.49,2023-08-07,Operational
+EQ0960,Defibrillator,NovaHealth,AIIMS,Kolkata,10,113296.95,1132969.5,2024-10-29,Under Maintenance
+EQ0961,ECG Machine,MedTech,Fortis Hospital,Delhi,14,84098.16,1177374.24,2023-11-16,Under Maintenance
+EQ0962,Patient Monitor,PulseTech,AIIMS,Mumbai,8,103059.86,824478.88,2025-01-01,Out of Service
+EQ0963,Ultrasound Device,LifeCare,Max Healthcare,Mumbai,10,51137.86,511378.6,2024-08-09,Out of Service
+EQ0964,Patient Monitor,MedTech,Max Healthcare,Chennai,8,368630.84,2949046.72,2025-02-04,Out of Service
+EQ0965,Ultrasound Device,NovaHealth,Fortis Hospital,Bangalore,19,358859.43,6818329.17,2023-01-27,Out of Service
+EQ0966,Ventilator,MediCore,AIIMS,Pune,15,276977.64,4154664.6,2024-07-04,Under Maintenance
+EQ0967,Infusion Pump,PulseTech,AIIMS,Delhi,19,189185.33,3594521.27,2024-05-25,Under Maintenance
+EQ0968,Infusion Pump,MediCore,Max Healthcare,Delhi,15,434560.71,6518410.65,2023-10-22,Out of Service
+EQ0969,Ultrasound Device,LifeCare,AIIMS,Pune,6,480458.02,2882748.12,2024-01-30,Under Maintenance
+EQ0970,CT Scanner,CareEquip,BLK Hospital,Bangalore,16,356109.83,5697757.28,2024-07-04,Under Maintenance
+EQ0971,X-Ray Machine,CareEquip,Max Healthcare,Pune,7,206367.67,1444573.69,2024-12-15,Operational
+EQ0972,Infusion Pump,MedTech,AIIMS,Delhi,8,234297.61,1874380.88,2024-09-12,Out of Service
+EQ0973,Surgical Laser,BioMed,BLK Hospital,Delhi,14,43574.1,610037.4,2024-10-22,Out of Service
+EQ0974,Ventilator,PulseTech,Fortis Hospital,Chennai,7,68776.58,481436.06,2023-11-12,Under Maintenance
+EQ0975,Ventilator,MedTech,AIIMS,Pune,12,351222.28,4214667.36,2023-10-10,Out of Service
+EQ0976,Ventilator,LifeCare,Apollo Hospital,Bangalore,6,122709.61,736257.66,2023-12-19,Out of Service
+EQ0977,Infusion Pump,CareEquip,AIIMS,Bangalore,17,339140.08,5765381.36,2025-04-24,Out of Service
+EQ0978,MRI Scanner,NovaHealth,BLK Hospital,Pune,19,301638.24,5731126.56,2023-12-07,Under Maintenance
+EQ0979,Defibrillator,NovaHealth,AIIMS,Mumbai,12,368955.41,4427464.92,2023-02-11,Out of Service
+EQ0980,MRI Scanner,BioMed,Max Healthcare,Kolkata,14,21511.54,301161.56,2024-07-20,Under Maintenance
+EQ0981,Ventilator,CareEquip,Manipal Hospital,Hyderabad,8,433812.88,3470503.04,2023-05-09,Under Maintenance
+EQ0982,Patient Monitor,MediCore,Apollo Hospital,Mumbai,14,56929.07,797006.98,2024-12-17,Out of Service
+EQ0983,Ultrasound Device,CareEquip,Medanta,Chennai,18,102562.04,1846116.72,2024-01-24,Out of Service
+EQ0984,Ultrasound Device,PulseTech,Max Healthcare,Delhi,9,416126.91,3745142.19,2023-03-24,Operational
+EQ0985,CT Scanner,PulseTech,Manipal Hospital,Mumbai,8,420870.29,3366962.32,2023-09-20,Operational
+EQ0986,Defibrillator,CareEquip,Fortis Hospital,Bangalore,4,345104.69,1380418.76,2023-03-03,Operational
+EQ0987,Ultrasound Device,BioMed,Medanta,Mumbai,4,233442.35,933769.4,2024-03-06,Out of Service
+EQ0988,X-Ray Machine,PulseTech,BLK Hospital,Hyderabad,17,343685.71,5842657.07,2024-09-03,Under Maintenance
+EQ0989,CT Scanner,NovaHealth,Max Healthcare,Pune,16,395275.91,6324414.56,2024-02-16,Operational
+EQ0990,CT Scanner,LifeCare,BLK Hospital,Hyderabad,3,332060.23,996180.69,2023-10-29,Operational
+EQ0991,MRI Scanner,BioMed,AIIMS,Pune,13,334831.11,4352804.43,2025-02-19,Out of Service
+EQ0992,Defibrillator,PulseTech,Medanta,Delhi,9,212465.35,1912188.15,2023-08-16,Under Maintenance
+EQ0993,ECG Machine,MedTech,Manipal Hospital,Mumbai,1,410307.64,410307.64,2023-03-09,Operational
+EQ0994,Infusion Pump,MedTech,Fortis Hospital,Mumbai,2,15801.62,31603.24,2023-11-20,Under Maintenance
+EQ0995,Infusion Pump,CareEquip,AIIMS,Bangalore,8,203093.53,1624748.24,2024-06-08,Out of Service
+EQ0996,CT Scanner,HealthPlus,Apollo Hospital,Kolkata,15,498395.73,7475935.95,2023-05-29,Out of Service
+EQ0997,ECG Machine,CareEquip,Max Healthcare,Hyderabad,7,58253.97,407777.79,2024-05-23,Operational
+EQ0998,CT Scanner,PulseTech,AIIMS,Mumbai,19,402416.36,7645910.84,2025-03-05,Out of Service
+EQ0999,Defibrillator,CareEquip,Fortis Hospital,Delhi,19,491786.56,9343944.64,2024-03-18,Out of Service
+EQ1000,Ventilator,HealthPlus,Max Healthcare,Mumbai,11,252621.12,2778832.32,2023-01-26,Operational
