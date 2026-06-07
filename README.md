@@ -1,4 +1,4 @@
-# Powerbi-project
+# healthcare-medical-equipment-powerbi-dashboard
 
 # Healthcare Medical Equipment Analytics Dashboard
 
